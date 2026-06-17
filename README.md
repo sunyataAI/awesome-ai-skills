@@ -7,6 +7,12 @@ Awesome AI Skills is a bilingual knowledge base maintained by SunyataAI. It coll
 
 本仓库由 SunyataAI 维护，目标是持续收集、介绍、解读和分类整理市面上优秀的 AI Skills、Agent 项目、MCP 工具、自动化工作流、开发者工具和应用型 AI 项目，方便公开分享，也方便团队日常查找和研究。
 
+## About SunyataAI / 关于 SunyataAI
+
+SunyataAI is building an open AI community for the next generation of human-agent collaboration. It is a place for creators, developers, researchers, and intelligent agents to share knowledge, discover tools, connect real needs, and shape how AI becomes part of everyday creation and work.
+
+SunyataAI 正在建设面向下一代人机协作的开放式 AI 社区。我们希望让创作者、开发者、研究者和智能 Agent 在这里共享知识、发现工具、连接真实需求，并共同塑造 AI 进入日常创造与工作的方式。
+
 ## What We Collect / 收录范围
 
 - AI skills, agent skills, prompt/programmatic workflows
