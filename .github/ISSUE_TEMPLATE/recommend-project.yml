@@ -1,0 +1,47 @@
+name: Recommend a Project
+description: Suggest an AI skills, agent, MCP, workflow, or developer-tool project.
+title: "[Recommendation] "
+labels:
+  - recommendation
+body:
+  - type: input
+    id: project_name
+    attributes:
+      label: Project name / 项目名称
+      placeholder: owner/repo or project name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Repository URL / 仓库链接
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category / 分类
+      options:
+        - skills
+        - agents
+        - mcp
+        - developer-tools
+        - applications
+        - research-learning
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary / 简介
+      description: Briefly describe what the project does.
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why it matters / 推荐理由
+      description: Explain why this project is worth tracking.
+    validations:
+      required: true

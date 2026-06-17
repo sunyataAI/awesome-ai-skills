@@ -1,0 +1,83 @@
+projects:
+  - name: Model Context Protocol Servers
+    repo: modelcontextprotocol/servers
+    url: https://github.com/modelcontextprotocol/servers
+    category: mcp
+    tags:
+      - MCP
+      - integrations
+      - tools
+    languages:
+      - TypeScript
+      - Python
+    summary_zh: MCP 官方服务器集合，覆盖文件系统、Git、数据库、浏览器自动化等常见工具接入场景。
+    summary_en: A collection of official MCP server implementations covering common integrations such as filesystems, Git, databases, and browser automation.
+    why_it_matters_zh: 适合作为理解 MCP 工具边界、server 结构和接入方式的基础参考。
+    why_it_matters_en: Useful as a reference for understanding MCP server boundaries, implementation structure, and integration patterns.
+    status: active
+
+  - name: OpenAI Cookbook
+    repo: openai/openai-cookbook
+    url: https://github.com/openai/openai-cookbook
+    category: developer-tools
+    tags:
+      - examples
+      - recipes
+      - SDK
+    languages:
+      - Python
+      - Jupyter Notebook
+    summary_zh: OpenAI API 示例和实践配方集合，覆盖模型调用、检索、工具调用、评估等常见开发主题。
+    summary_en: Practical examples and recipes for using OpenAI APIs across model calls, retrieval, tool use, evaluation, and common application patterns.
+    why_it_matters_zh: 适合作为 AI 应用开发的入门和参考资料，很多模式可迁移到实际产品。
+    why_it_matters_en: A practical reference for AI application development, with many reusable patterns for production systems.
+    status: active
+
+  - name: AutoGen
+    repo: microsoft/autogen
+    url: https://github.com/microsoft/autogen
+    category: agents
+    tags:
+      - multi-agent
+      - orchestration
+      - framework
+    languages:
+      - Python
+    summary_zh: 微软开源的 Agent 应用框架，重点支持多 Agent 协作、对话编排和自动化任务执行。
+    summary_en: An open source framework from Microsoft for building agentic applications, with emphasis on multi-agent collaboration, conversation orchestration, and automated task execution.
+    why_it_matters_zh: 多 Agent 方向的代表性项目之一，适合研究 Agent 协作模式和工程化接口设计。
+    why_it_matters_en: A representative multi-agent project for studying collaboration patterns and engineering interfaces for agent systems.
+    status: active
+
+  - name: CrewAI
+    repo: crewAIInc/crewAI
+    url: https://github.com/crewAIInc/crewAI
+    category: agents
+    tags:
+      - agents
+      - workflow
+      - orchestration
+    languages:
+      - Python
+    summary_zh: 面向角色分工和流程编排的 Agent 框架，强调 crew、role、task 等概念。
+    summary_en: An agent framework centered on role-based collaboration and workflow orchestration using concepts such as crews, roles, and tasks.
+    why_it_matters_zh: 便于观察面向业务流程的 Agent 抽象方式，也适合对比不同 Agent 框架的设计取舍。
+    why_it_matters_en: Useful for studying business-workflow-oriented agent abstractions and comparing design tradeoffs across agent frameworks.
+    status: active
+
+  - name: LangChain
+    repo: langchain-ai/langchain
+    url: https://github.com/langchain-ai/langchain
+    category: developer-tools
+    tags:
+      - framework
+      - integrations
+      - LLM apps
+    languages:
+      - Python
+      - TypeScript
+    summary_zh: LLM 应用开发框架和生态，覆盖模型、工具、检索、Agent、工作流等大量集成。
+    summary_en: A broad framework and ecosystem for LLM application development, covering models, tools, retrieval, agents, workflows, and integrations.
+    why_it_matters_zh: 生态广、案例多，适合作为观察 AI 应用工程化模式和集成复杂度的参考。
+    why_it_matters_en: Its broad ecosystem and many examples make it useful for studying engineering patterns and integration complexity in LLM applications.
+    status: active
