@@ -46,6 +46,11 @@ The first public version starts with a small structured seed list. More entries 
 | [microsoft/autogen](https://github.com/microsoft/autogen) | `agents` | multi-agent, orchestration | A widely referenced framework for building multi-agent applications. |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | `agents` | agents, workflow | A popular project for role-based agent workflow orchestration. |
 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | `developer-tools` | framework, integrations | Broad ecosystem for LLM application development and integrations. |
+| [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) | `skills` | Lottie, motion, Skia | Generates and verifies editable Lottie JSON animations in an official local player. |
+| [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | `skills` | GSAP, animation, ScrollTrigger | Eight official skills covering GSAP core, timelines, frameworks, plugins, and performance. |
+| [three-scope-map-skill](https://github.com/songsummer920-dazzle/three-scope-map-skill) | `skills` | Three.js, 3D maps, Vue | A template-driven skill for building and validating drill-down 3D geographic maps. |
+| [web-to-design-md](https://github.com/Paidax01/web-to-design-md) | `skills` | design extraction, browser, DESIGN.md | Converts a live website into a reusable design system document and HTML preview. |
+| [shadcn skill](https://ui.shadcn.com/docs/skills) | `skills` | shadcn/ui, components, CLI | Official project-aware guidance for composing and maintaining shadcn/ui interfaces. |
 
 ## Entry Format / 条目格式
 

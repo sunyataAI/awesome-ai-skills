@@ -81,3 +81,98 @@ projects:
     why_it_matters_zh: 生态广、案例多，适合作为观察 AI 应用工程化模式和集成复杂度的参考。
     why_it_matters_en: Its broad ecosystem and many examples make it useful for studying engineering patterns and integration complexity in LLM applications.
     status: active
+
+  - name: Diffusion Studio Lottie Skill
+    repo: diffusionstudio/lottie
+    url: https://github.com/diffusionstudio/lottie
+    category: skills
+    tags:
+      - Lottie
+      - motion-design
+      - Skia
+      - animation
+    languages:
+      - Markdown
+      - TypeScript
+    summary_zh: 用自然语言创建、编辑和修复 Lottie JSON 动画，并要求在官方本地 Skia 播放器中预览和逐帧验证。
+    summary_en: A skill for creating, editing, and fixing Lottie JSON animations with preview and frame-based verification in the official local Skia player.
+    why_it_matters_zh: 不只生成 JSON，还规定了场景目录、可编辑属性、播放器和视觉验收流程，适合制作可交付的动态素材。
+    why_it_matters_en: It goes beyond JSON generation by defining scene structure, editable controls, player setup, and visual QA for deliverable motion assets.
+    status: active
+
+  - name: Official GSAP Skills
+    repo: greensock/gsap-skills
+    url: https://github.com/greensock/gsap-skills
+    category: skills
+    tags:
+      - GSAP
+      - ScrollTrigger
+      - animation
+      - React
+      - Vue
+    languages:
+      - Markdown
+      - JavaScript
+    summary_zh: GSAP 官方维护的 8 个技能包，覆盖核心动画、时间线、ScrollTrigger、插件、React、Vue/Svelte、性能和工具函数。
+    summary_en: Eight official GSAP skills covering core animation, timelines, ScrollTrigger, plugins, React, Vue/Svelte, performance, and utility functions.
+    why_it_matters_zh: 将 GSAP 的正确用法、框架生命周期清理、响应式动画和性能规则直接提供给编码 Agent，适合复杂网页动效开发。
+    why_it_matters_en: It gives coding agents reliable GSAP patterns for framework lifecycle cleanup, responsive motion, scroll effects, and performance-sensitive animation.
+    status: active
+
+  - name: Three Scope Map Skill
+    repo: songsummer920-dazzle/three-scope-map-skill
+    url: https://github.com/songsummer920-dazzle/three-scope-map-skill
+    category: skills
+    tags:
+      - Three.js
+      - Vue
+      - 3D-map
+      - GeoJSON
+      - drilldown
+    languages:
+      - Markdown
+      - TypeScript
+      - Vue
+      - Python
+    summary_zh: 基于 Vue、Three.js 和 GeoJSON 构建省级、中国、世界及多层级下钻 3D 地图，附带模板、主题工具、数据处理脚本和视觉回归检查。
+    summary_en: A Vue, Three.js, and GeoJSON skill for province, China, world, and hierarchical drill-down 3D maps, with templates, theming tools, data scripts, and visual regression checks.
+    why_it_matters_zh: 提供较完整的 3D 地图工程流程和可复用模板，适合数据大屏、区域可视化和地图范围迁移；复用时需遵守 GPL-3.0 和署名要求。
+    why_it_matters_en: It provides a substantial reusable engineering workflow for dashboards and geographic visualization; derivatives must preserve its GPL-3.0 license and attribution requirements.
+    status: active
+
+  - name: Website to DESIGN.md
+    repo: Paidax01/web-to-design-md
+    url: https://github.com/Paidax01/web-to-design-md
+    category: skills
+    tags:
+      - design-system
+      - website-analysis
+      - agent-browser
+      - DESIGN.md
+    languages:
+      - Markdown
+      - JavaScript
+    summary_zh: 通过浏览器深入读取真实网站的 DOM、计算样式、CSS 变量和交互状态，整理成可复用的 DESIGN.md 与 HTML 视觉预览。
+    summary_en: Inspects a live website's DOM, computed styles, CSS variables, and interaction states to produce a reusable DESIGN.md and companion HTML preview.
+    why_it_matters_zh: 适合在重构、复刻或设计交接前沉淀网站视觉语言，比只看截图更能保留组件、响应式和交互规则。
+    why_it_matters_en: Useful before redesigns, reimplementations, or handoffs because it captures component, responsive, and interaction rules beyond screenshots.
+    status: active
+
+  - name: shadcn Skill
+    repo: shadcn-ui/ui
+    url: https://ui.shadcn.com/docs/skills
+    category: skills
+    tags:
+      - shadcn-ui
+      - React
+      - components
+      - design-system
+      - CLI
+    languages:
+      - Markdown
+      - TypeScript
+    summary_zh: shadcn/ui 官方 Agent skill，可读取项目配置，指导组件搜索、安装、组合、样式、表单、图标、Registry 和 preset 工作流。
+    summary_en: The official shadcn/ui agent skill for project-aware component discovery, installation, composition, styling, forms, icons, registries, and presets.
+    why_it_matters_zh: 能减少 Agent 手写重复组件或误用 API 的情况，并通过官方 CLI、项目上下文和规则文件提高 shadcn 项目的实现一致性。
+    why_it_matters_en: It reduces unnecessary custom components and API mistakes by grounding agents in the official CLI, project context, and current composition rules.
+    status: active
