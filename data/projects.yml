@@ -255,3 +255,39 @@ projects:
     why_it_matters_zh: 它把生成式图像工作流从参数面板推进到更直观的创作画布，适合研究 AI 视觉工具如何组织节点、素材、迭代和交付。
     why_it_matters_en: It moves generative image workflows toward a more visual creative canvas, making it valuable for studying how AI visual tools organize nodes, assets, iteration, and delivery.
     status: active
+
+  - name: Open Design
+    repo: nexu-io/open-design
+    url: https://github.com/nexu-io/open-design
+    category: applications
+    tags:
+      - design
+      - prototypes
+      - design-systems
+      - skills
+      - desktop-app
+    languages:
+      - TypeScript
+    summary_zh: 本地优先的开源设计工作台，面向 Web、桌面、移动原型、幻灯片、图片、视频和 HyperFrames 等创作场景，集成大量 skills 与设计系统。
+    summary_en: A local-first open source design workspace for web, desktop, mobile prototypes, slides, images, videos, HyperFrames, and related creative workflows, with many bundled skills and design systems.
+    why_it_matters_zh: 它把 AI 编码工具、设计系统、沙盒预览和多格式导出整合到一个原生桌面应用里，适合观察 AI-native 设计生产力工具如何组织能力与交付链路。
+    why_it_matters_en: It combines AI coding tools, design systems, sandboxed preview, and multi-format export in a native desktop app, making it useful for studying AI-native design productivity workflows.
+    status: active
+
+  - name: Horizon
+    repo: Thysrael/Horizon
+    url: https://github.com/Thysrael/Horizon
+    category: applications
+    tags:
+      - news-radar
+      - briefing
+      - bilingual
+      - automation
+      - AI-news
+    languages:
+      - Python
+    summary_zh: AI 驱动的个人新闻雷达，用于聚合、筛选和生成中英文每日新闻简报。
+    summary_en: An AI-powered personal news radar for collecting, filtering, and generating daily news briefings in English and Chinese.
+    why_it_matters_zh: 它把信息监测、AI 摘要和双语简报组织成可复用的自动化流程，适合研究个人知识雷达和资讯 Agent 产品形态。
+    why_it_matters_en: It packages monitoring, AI summarization, and bilingual briefing generation into a reusable automation flow, making it useful for studying personal knowledge radar and news-agent products.
+    status: active

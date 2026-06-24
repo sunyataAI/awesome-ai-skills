@@ -61,6 +61,8 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [eze-is/web-access](https://github.com/eze-is/web-access) | `skills` | web access, CDP, browser automation | Gives agents a structured web-access layer with tool selection, browser CDP control, local browser history lookup, and parallel research patterns. |
 | [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) | `research-learning` | Codex, guide, workflow, PDF | A Chinese open guide that explains Codex installation, workflows, skills, MCP, plugins, and practical examples. |
 | [inlineresearch/Inline-Studio](https://github.com/inlineresearch/Inline-Studio) | `applications` | ComfyUI, visual art, node canvas, desktop app | A desktop creative tool for building, iterating, exporting, and sharing generative visual pipelines on top of a user's own ComfyUI. |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | `applications` | design, prototypes, skills, desktop app | A local-first open source design workspace with hundreds of skills and design systems for creating prototypes, slides, images, videos, and exports. |
+| [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | `applications` | news radar, briefing, bilingual, automation | An AI-powered personal news radar that generates daily English and Chinese briefings. |
 
 ## Entry Format
 
