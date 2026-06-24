@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/awesome-ai-skills-banner.svg" alt="Awesome AI Skills banner" width="100%">
+  <img src="assets/awesome-ai-skills-banner.png" alt="Awesome AI Skills banner" width="100%">
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ When adding or reviewing a project, prefer concrete observations over vague prai
 ├── README.md
 ├── README.zh-CN.md
 ├── assets/
-│   └── awesome-ai-skills-banner.svg
+│   └── awesome-ai-skills-banner.png
 ├── data/
 │   └── projects.yml
 ├── CONTRIBUTING.md
