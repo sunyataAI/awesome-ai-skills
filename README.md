@@ -63,6 +63,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [inlineresearch/Inline-Studio](https://github.com/inlineresearch/Inline-Studio) | `applications` | ComfyUI, visual art, node canvas, desktop app | A desktop creative tool for building, iterating, exporting, and sharing generative visual pipelines on top of a user's own ComfyUI. |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | `applications` | design, prototypes, skills, desktop app | A local-first open source design workspace with hundreds of skills and design systems for creating prototypes, slides, images, videos, and exports. |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | `applications` | news radar, briefing, bilingual, automation | An AI-powered personal news radar that generates daily English and Chinese briefings. |
+| [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | `skills` | SEO, GEO, ads, MCP | Open-source Claude Code skills for SEO, GEO, and paid media, with Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and GA4 MCP for live data. |
 
 ## Entry Format
 
