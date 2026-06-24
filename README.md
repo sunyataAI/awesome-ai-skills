@@ -13,6 +13,9 @@ SunyataAI is building an open AI community for the next generation of human-agen
 
 SunyataAI 正在建设面向下一代人机协作的开放式 AI 社区。我们希望让创作者、开发者、研究者和智能 Agent 在这里共享知识、发现工具、连接真实需求，并共同塑造 AI 进入日常创造与工作的方式。
 
+Website / 官网: [sunyataai.com](https://sunyataai.com)<br>
+Contact / 联系方式: [sunyataai@outlook.com](mailto:sunyataai@outlook.com)
+
 ## What We Collect / 收录范围
 
 - AI skills, agent skills, prompt/programmatic workflows
@@ -52,6 +55,9 @@ The first public version starts with a small structured seed list. More entries 
 | [web-to-design-md](https://github.com/Paidax01/web-to-design-md) | `skills` | design extraction, browser, DESIGN.md | Converts a live website into a reusable design system document and HTML preview. |
 | [shadcn skill](https://ui.shadcn.com/docs/skills) | `skills` | shadcn/ui, components, CLI | Official project-aware guidance for composing and maintaining shadcn/ui interfaces. |
 | [zhongerxin/cowart](https://github.com/zhongerxin/cowart) | `developer-tools` | Codex plugin, tldraw, canvas, image generation | Adds a project-local infinite canvas for visual thinking, AI image generation, and annotation-driven iteration. |
+| [eze-is/web-access](https://github.com/eze-is/web-access) | `skills` | web access, CDP, browser automation | Gives agents a structured web-access layer with tool selection, browser CDP control, local browser history lookup, and parallel research patterns. |
+| [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) | `research-learning` | Codex, guide, workflow, PDF | A Chinese open guide that explains Codex installation, workflows, skills, MCP, plugins, and practical examples. |
+| [inlineresearch/Inline-Studio](https://github.com/inlineresearch/Inline-Studio) | `applications` | ComfyUI, visual art, node canvas, desktop app | A desktop creative tool for building, iterating, exporting, and sharing generative visual pipelines on top of a user's own ComfyUI. |
 
 ## Entry Format / 条目格式
 

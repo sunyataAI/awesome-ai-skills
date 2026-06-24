@@ -196,3 +196,62 @@ projects:
     why_it_matters_zh: 将画布、三个专用 skills 和 MCP 图片插入能力整合进 Codex，并把页面与素材保存在当前项目的 canvas 目录，适合需要可视化协作和多轮创意修改的工作。
     why_it_matters_en: It combines a canvas, three dedicated skills, and MCP image insertion while keeping pages and assets in the current project's canvas directory, making it useful for visual collaboration and iterative creative work.
     status: active
+
+  - name: Web Access
+    repo: eze-is/web-access
+    url: https://github.com/eze-is/web-access
+    category: skills
+    tags:
+      - web-access
+      - browser-automation
+      - CDP
+      - research
+      - Codex
+    languages:
+      - Markdown
+      - JavaScript
+    summary_zh: 面向 Codex 的联网访问 skill，强调根据任务选择合适工具，并支持浏览器 CDP 控制、浏览器历史检索、并行研究和网页内容提取。
+    summary_en: A web-access skill for Codex that focuses on selecting the right tool for each task, with support for browser CDP control, browser history lookup, parallel research, and web content extraction.
+    why_it_matters_zh: 它把普通搜索、浏览器自动化、本地历史和深度研究拆成清晰的使用边界，适合需要联网核查、页面交互和资料整理的 Agent 工作流。
+    why_it_matters_en: It draws useful boundaries between search, browser automation, local history, and deep research, making it practical for agent workflows that need verification, interaction, and source collection.
+    status: active
+
+  - name: Codex Orange Book
+    repo: bozhouDev/codex-orange-book
+    url: https://github.com/bozhouDev/codex-orange-book
+    category: research-learning
+    tags:
+      - Codex
+      - guide
+      - skills
+      - MCP
+      - plugins
+    languages:
+      - HTML
+      - Markdown
+      - PDF
+    summary_zh: 中文 Codex 实战指南，系统整理安装配置、常用工作流、skills、MCP、插件体系、示例任务和使用技巧。
+    summary_en: A Chinese practical guide to Codex, covering setup, common workflows, skills, MCP, plugins, example tasks, and usage patterns.
+    why_it_matters_zh: 适合作为中文用户理解 Codex 工作方式和能力边界的入门资料，也方便团队统一使用习惯和最佳实践。
+    why_it_matters_en: It is useful onboarding material for Chinese Codex users and helps teams align on workflows, capability boundaries, and practical conventions.
+    status: active
+
+  - name: Inline Studio
+    repo: inlineresearch/Inline-Studio
+    url: https://github.com/inlineresearch/Inline-Studio
+    category: applications
+    tags:
+      - ComfyUI
+      - generative-art
+      - visual-workflow
+      - desktop-app
+      - node-canvas
+    languages:
+      - TypeScript
+      - JavaScript
+      - CSS
+    summary_zh: 基于用户自有 ComfyUI 的桌面视觉创作工具，提供节点式画布、生成、迭代、导出和工作流分享能力。
+    summary_en: A desktop visual creation tool built on the user's own ComfyUI, with node-based canvas workflows for generation, iteration, export, and sharing.
+    why_it_matters_zh: 它把生成式图像工作流从参数面板推进到更直观的创作画布，适合研究 AI 视觉工具如何组织节点、素材、迭代和交付。
+    why_it_matters_en: It moves generative image workflows toward a more visual creative canvas, making it valuable for studying how AI visual tools organize nodes, assets, iteration, and delivery.
+    status: active
