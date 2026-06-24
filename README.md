@@ -51,6 +51,7 @@ The first public version starts with a small structured seed list. More entries 
 | [three-scope-map-skill](https://github.com/songsummer920-dazzle/three-scope-map-skill) | `skills` | Three.js, 3D maps, Vue | A template-driven skill for building and validating drill-down 3D geographic maps. |
 | [web-to-design-md](https://github.com/Paidax01/web-to-design-md) | `skills` | design extraction, browser, DESIGN.md | Converts a live website into a reusable design system document and HTML preview. |
 | [shadcn skill](https://ui.shadcn.com/docs/skills) | `skills` | shadcn/ui, components, CLI | Official project-aware guidance for composing and maintaining shadcn/ui interfaces. |
+| [zhongerxin/cowart](https://github.com/zhongerxin/cowart) | `developer-tools` | Codex plugin, tldraw, canvas, image generation | Adds a project-local infinite canvas for visual thinking, AI image generation, and annotation-driven iteration. |
 
 ## Entry Format / 条目格式
 

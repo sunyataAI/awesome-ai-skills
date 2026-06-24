@@ -176,3 +176,23 @@ projects:
     why_it_matters_zh: 能减少 Agent 手写重复组件或误用 API 的情况，并通过官方 CLI、项目上下文和规则文件提高 shadcn 项目的实现一致性。
     why_it_matters_en: It reduces unnecessary custom components and API mistakes by grounding agents in the official CLI, project context, and current composition rules.
     status: active
+
+  - name: Cowart
+    repo: zhongerxin/cowart
+    url: https://github.com/zhongerxin/cowart
+    category: developer-tools
+    tags:
+      - Codex-plugin
+      - tldraw
+      - infinite-canvas
+      - image-generation
+      - MCP
+    languages:
+      - JavaScript
+      - React
+      - Markdown
+    summary_zh: 面向 Codex 的本地无限画布插件，基于 tldraw 提供视觉构思、图片标注、AI 图片生成和根据标注迭代图片的工作流。
+    summary_en: A local infinite-canvas plugin for Codex, powered by tldraw for visual thinking, image annotation, AI image generation, and annotation-driven image iteration.
+    why_it_matters_zh: 将画布、三个专用 skills 和 MCP 图片插入能力整合进 Codex，并把页面与素材保存在当前项目的 canvas 目录，适合需要可视化协作和多轮创意修改的工作。
+    why_it_matters_en: It combines a canvas, three dedicated skills, and MCP image insertion while keeping pages and assets in the current project's canvas directory, making it useful for visual collaboration and iterative creative work.
+    status: active
