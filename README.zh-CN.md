@@ -63,6 +63,8 @@ SunyataAI 正在建设面向下一代人机协作的开放式 AI 社区。我们
 | [inlineresearch/Inline-Studio](https://github.com/inlineresearch/Inline-Studio) | `applications` | ComfyUI, visual art, node canvas, desktop app | 基于 ComfyUI 的桌面视觉创作工具，支持生成、迭代、导出和分享。 |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | `applications` | design, prototypes, skills, desktop app | 本地优先的开源设计工作台，集成大量 skills 和设计系统，用于创建原型、幻灯片、图片、视频和多格式导出。 |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | `applications` | news radar, briefing, bilingual, automation | AI 驱动的个人新闻雷达，可生成中英文每日简报。 |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | `research-learning` | DESIGN.md, design systems, UI generation | 收集热门品牌设计系统的 DESIGN.md 分析，可帮助编码 Agent 生成更一致的 UI。 |
+| [ymzhang10/account-registration-guides](https://github.com/ymzhang10/account-registration-guides) | `research-learning` | account setup, subscriptions, ChatGPT, Apple Account | 中文账号申请与订阅教程，覆盖 ChatGPT、Gmail、美区 Apple Account 等常见服务。 |
 
 ## 条目格式
 

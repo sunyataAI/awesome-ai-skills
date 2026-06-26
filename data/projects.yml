@@ -291,3 +291,40 @@ projects:
     why_it_matters_zh: 它把信息监测、AI 摘要和双语简报组织成可复用的自动化流程，适合研究个人知识雷达和资讯 Agent 产品形态。
     why_it_matters_en: It packages monitoring, AI summarization, and bilingual briefing generation into a reusable automation flow, making it useful for studying personal knowledge radar and news-agent products.
     status: active
+
+  - name: Awesome DESIGN.md
+    repo: VoltAgent/awesome-design-md
+    url: https://github.com/VoltAgent/awesome-design-md
+    category: research-learning
+    tags:
+      - DESIGN.md
+      - design-systems
+      - UI-generation
+      - coding-agents
+      - brand-analysis
+    languages:
+      - Markdown
+    summary_zh: 收集热门品牌设计系统的 DESIGN.md 分析，帮助把成熟品牌的视觉语言、组件规则和界面风格沉淀成可供编码 Agent 使用的设计上下文。
+    summary_en: A curated collection of DESIGN.md analyses for popular brand design systems, turning mature visual languages, component rules, and UI styles into reusable context for coding agents.
+    why_it_matters_zh: 它把“让 Agent 生成好看的 UI”这个问题转化为可复用设计上下文，适合研究 AI 辅助界面生成、设计系统迁移和品牌风格复用。
+    why_it_matters_en: It turns UI quality for coding agents into reusable design context, making it useful for studying AI-assisted interface generation, design-system transfer, and brand-style reuse.
+    status: active
+
+  - name: Account Registration Guides
+    repo: ymzhang10/account-registration-guides
+    url: https://github.com/ymzhang10/account-registration-guides
+    category: research-learning
+    tags:
+      - account-setup
+      - subscriptions
+      - ChatGPT
+      - Gmail
+      - Apple-Account
+    languages:
+      - HTML
+      - Markdown
+    summary_zh: 中文账号申请与订阅教程，覆盖 ChatGPT、Gmail、美区 Apple Account、Apple 礼品卡和 ChatGPT Plus 等常见服务。
+    summary_en: Chinese account registration and subscription guides covering common services such as ChatGPT, Gmail, US Apple Account, Apple gift cards, and ChatGPT Plus.
+    why_it_matters_zh: 账号申请和订阅往往是使用 AI 工具的现实门槛，这类资料适合作为 AI 工具生态的入门支持和操作参考。
+    why_it_matters_en: Account setup and subscriptions are practical onboarding barriers for AI tools, so these guides are useful operational references for users entering the AI tooling ecosystem.
+    status: active

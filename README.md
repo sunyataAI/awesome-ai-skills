@@ -63,6 +63,8 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [inlineresearch/Inline-Studio](https://github.com/inlineresearch/Inline-Studio) | `applications` | ComfyUI, visual art, node canvas, desktop app | A desktop creative tool for building, iterating, exporting, and sharing generative visual pipelines on top of a user's own ComfyUI. |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | `applications` | design, prototypes, skills, desktop app | A local-first open source design workspace with hundreds of skills and design systems for creating prototypes, slides, images, videos, and exports. |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | `applications` | news radar, briefing, bilingual, automation | An AI-powered personal news radar that generates daily English and Chinese briefings. |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | `research-learning` | DESIGN.md, design systems, UI generation | A curated set of DESIGN.md analyses for popular brand design systems, useful for guiding coding agents toward consistent UI output. |
+| [ymzhang10/account-registration-guides](https://github.com/ymzhang10/account-registration-guides) | `research-learning` | account setup, subscriptions, ChatGPT, Apple Account | Chinese guides for registering and subscribing to common AI and developer-adjacent services such as ChatGPT, Gmail, and Apple accounts. |
 
 ## Entry Format
 
