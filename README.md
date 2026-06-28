@@ -65,6 +65,9 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | `applications` | news radar, briefing, bilingual, automation | An AI-powered personal news radar that generates daily English and Chinese briefings. |
 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | `research-learning` | DESIGN.md, design systems, UI generation | A curated set of DESIGN.md analyses for popular brand design systems, useful for guiding coding agents toward consistent UI output. |
 | [ymzhang10/account-registration-guides](https://github.com/ymzhang10/account-registration-guides) | `research-learning` | account setup, subscriptions, ChatGPT, Apple Account | Chinese guides for registering and subscribing to common AI and developer-adjacent services such as ChatGPT, Gmail, and Apple accounts. |
+| [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | `skills` | coding agents, frontend, mobile, multimodal | Official MiniMax skills for AI coding agents, covering frontend, fullstack, mobile, shaders, documents, spreadsheets, presentations, and multimodal generation. |
+| [openai/codex](https://github.com/openai/codex) | `developer-tools` | coding agent, terminal, Rust, CLI | OpenAI's lightweight coding agent that runs in the terminal for agentic software development workflows. |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | `developer-tools` | media downloader, CLI, audio, video | A feature-rich command-line audio/video downloader that is useful in media collection, dataset preparation, and automation workflows. |
 
 ## Entry Format
 

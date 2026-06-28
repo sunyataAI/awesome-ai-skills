@@ -328,3 +328,59 @@ projects:
     why_it_matters_zh: 账号申请和订阅往往是使用 AI 工具的现实门槛，这类资料适合作为 AI 工具生态的入门支持和操作参考。
     why_it_matters_en: Account setup and subscriptions are practical onboarding barriers for AI tools, so these guides are useful operational references for users entering the AI tooling ecosystem.
     status: active
+
+  - name: MiniMax Skills
+    repo: MiniMax-AI/skills
+    url: https://github.com/MiniMax-AI/skills
+    category: skills
+    tags:
+      - coding-agents
+      - frontend
+      - fullstack
+      - mobile
+      - multimodal
+    languages:
+      - C#
+      - Markdown
+      - Python
+    summary_zh: MiniMax 官方 AI coding agent skills 集合，覆盖前端、全栈、Android、iOS、Flutter、React Native、shader、PDF、PPTX、XLSX、DOCX、视觉分析和多模态生成等方向。
+    summary_en: Official MiniMax skills for AI coding agents, covering frontend, fullstack, Android, iOS, Flutter, React Native, shaders, PDF, PPTX, XLSX, DOCX, vision analysis, and multimodal generation.
+    why_it_matters_zh: 它把开发、设计、多媒体生成和 Office 文档处理拆成一组可安装 skills，适合研究垂直能力如何进入 Claude Code、Codex、Cursor 等编码 Agent 工作流。
+    why_it_matters_en: It packages development, design, media generation, and Office document workflows as installable skills, making it useful for studying how vertical capabilities enter Claude Code, Codex, Cursor, and other coding-agent environments.
+    status: beta
+
+  - name: OpenAI Codex
+    repo: openai/codex
+    url: https://github.com/openai/codex
+    category: developer-tools
+    tags:
+      - coding-agent
+      - terminal
+      - CLI
+      - Rust
+      - software-development
+    languages:
+      - Rust
+    summary_zh: OpenAI 开源的轻量级终端 coding agent，用于在本地开发环境中执行 Agent 化软件开发任务。
+    summary_en: OpenAI's lightweight terminal coding agent for agentic software development tasks in local development environments.
+    why_it_matters_zh: 它是终端型 coding agent 的重要参考项目，适合观察本地代理、代码编辑、工具调用和开发者工作流如何组合成产品。
+    why_it_matters_en: It is an important reference for terminal-based coding agents and for studying how local agency, code editing, tool use, and developer workflows are packaged into a product.
+    status: active
+
+  - name: yt-dlp
+    repo: yt-dlp/yt-dlp
+    url: https://github.com/yt-dlp/yt-dlp
+    category: developer-tools
+    tags:
+      - media-downloader
+      - CLI
+      - audio
+      - video
+      - automation
+    languages:
+      - Python
+    summary_zh: 功能丰富的命令行音视频下载工具，支持大量站点和格式，常用于媒体采集、数据集准备和自动化处理链路。
+    summary_en: A feature-rich command-line audio/video downloader supporting many sites and formats, commonly used for media collection, dataset preparation, and automation pipelines.
+    why_it_matters_zh: 虽然不是 AI 项目本身，但它是许多多媒体 AI 工作流中的基础工具，适合用于采集样本、整理素材和构建自动化媒体处理流程。
+    why_it_matters_en: While not an AI project by itself, it is a foundational tool in many multimedia AI workflows for collecting samples, organizing assets, and building automated media-processing pipelines.
+    status: active

@@ -65,6 +65,9 @@ SunyataAI 正在建设面向下一代人机协作的开放式 AI 社区。我们
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | `applications` | news radar, briefing, bilingual, automation | AI 驱动的个人新闻雷达，可生成中英文每日简报。 |
 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | `research-learning` | DESIGN.md, design systems, UI generation | 收集热门品牌设计系统的 DESIGN.md 分析，可帮助编码 Agent 生成更一致的 UI。 |
 | [ymzhang10/account-registration-guides](https://github.com/ymzhang10/account-registration-guides) | `research-learning` | account setup, subscriptions, ChatGPT, Apple Account | 中文账号申请与订阅教程，覆盖 ChatGPT、Gmail、美区 Apple Account 等常见服务。 |
+| [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | `skills` | coding agents, frontend, mobile, multimodal | MiniMax 官方 AI coding agent skills，覆盖前端、全栈、移动端、shader、文档、表格、演示和多模态生成。 |
+| [openai/codex](https://github.com/openai/codex) | `developer-tools` | coding agent, terminal, Rust, CLI | OpenAI 的轻量级终端 coding agent，用于 Agent 化软件开发工作流。 |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | `developer-tools` | media downloader, CLI, audio, video | 功能丰富的命令行音视频下载工具，适合媒体采集、数据集准备和自动化流程。 |
 
 ## 条目格式
 
