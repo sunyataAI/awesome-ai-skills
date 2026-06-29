@@ -646,3 +646,20 @@ projects:
     why_it_matters_zh: 它把短视频生产拆成脚本、视觉规划、图像/视频生成、TTS、BGM 和合成等可替换模块，支持 ComfyUI、RunningHub 和直连模型 API，适合研究端到端内容生产流水线和多模型编排。
     why_it_matters_en: It breaks short-video production into replaceable modules for scripting, visual planning, image/video generation, TTS, BGM, and rendering, with support for ComfyUI, RunningHub, and direct model APIs for studying end-to-end content pipelines.
     status: active
+
+  - name: Xquik
+    repo: Xquik-dev/x-twitter-scraper
+    url: https://github.com/Xquik-dev/x-twitter-scraper
+    category: mcp
+    tags:
+      - MCP
+      - X
+      - social-data
+      - automation
+    languages:
+      - TypeScript
+    summary_zh: 面向 X/Twitter 数据、监控、抽奖和确认式发布流程的远程 MCP 与 REST API 项目。
+    summary_en: A remote MCP and REST API project for X/Twitter data, monitoring, giveaway draws, and confirmation-gated publishing workflows.
+    why_it_matters_zh: 提供一个可研究的社交数据集成样例，展示 Agent 如何通过远程 MCP 连接搜索、用户查询、粉丝提取和监控任务。
+    why_it_matters_en: Useful as a social-data integration example showing how agents can connect to search, user lookup, follower extraction, and monitoring tasks through a remote MCP server.
+    status: active
