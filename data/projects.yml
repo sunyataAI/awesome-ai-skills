@@ -384,3 +384,21 @@ projects:
     why_it_matters_zh: 虽然不是 AI 项目本身，但它是许多多媒体 AI 工作流中的基础工具，适合用于采集样本、整理素材和构建自动化媒体处理流程。
     why_it_matters_en: While not an AI project by itself, it is a foundational tool in many multimedia AI workflows for collecting samples, organizing assets, and building automated media-processing pipelines.
     status: active
+
+  - name: Skill Hub
+    repo: rdone4425/skill
+    url: https://github.com/rdone4425/skill
+    category: skills
+    tags:
+      - skills-directory
+      - agent-skills
+      - navigation
+      - community
+      - multi-agent
+    languages:
+      - Markdown
+    summary_zh: AI Agent Skills 导航站，收录 77+ 个来自 OpenAI Codex、Claude、Hermes、OpenCode 等平台的 skills，按分类组织并提供 CLI 工具。
+    summary_en: A curated directory of 77+ AI agent skills from OpenAI Codex, Claude, Hermes, OpenCode, and more, organized by category with CLI discovery tools.
+    why_it_matters_zh: 它把分散在不同平台和仓库的 AI Agent skills 集中索引和分类，适合需要快速发现、对比和复用 skills 的开发者，也便于观察 skills 生态的演进趋势。
+    why_it_matters_en: It consolidates AI agent skills scattered across platforms and repos into a searchable index, making it valuable for developers discovering, comparing, and reusing skills, and for tracking the evolution of the skills ecosystem.
+    status: active
