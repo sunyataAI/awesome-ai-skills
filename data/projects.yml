@@ -384,3 +384,21 @@ projects:
     why_it_matters_zh: 虽然不是 AI 项目本身，但它是许多多媒体 AI 工作流中的基础工具，适合用于采集样本、整理素材和构建自动化媒体处理流程。
     why_it_matters_en: While not an AI project by itself, it is a foundational tool in many multimedia AI workflows for collecting samples, organizing assets, and building automated media-processing pipelines.
     status: active
+
+  - name: Humanizer zh
+    repo: op7418/Humanizer-zh
+    url: https://github.com/op7418/Humanizer-zh
+    category: skills
+    tags:
+      - writing
+      - Chinese
+      - Claude-Code
+      - style-rewriting
+      - text-polishing
+    languages:
+      - Markdown
+    summary_zh: Humanizer 的中文化 Claude Code Skill，用于优化生成文本的语气、节奏和表达方式，让内容读起来更自然、更少机械感。
+    summary_en: A Chinese-localized Claude Code skill for improving the tone, rhythm, and expression of generated text so it reads more naturally and less mechanically.
+    why_it_matters_zh: 文本润色和风格改写是 AI 内容工作流中的常见环节，这类 skill 适合作为中文写作、内容编辑和表达优化的参考；使用时仍应注意透明披露和内容真实性。
+    why_it_matters_en: Text polishing and style rewriting are common parts of AI content workflows, making this skill useful for Chinese writing, editing, and expression refinement; it should still be used with attention to transparency and factual integrity.
+    status: active

@@ -68,6 +68,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | `skills` | coding agents, frontend, mobile, multimodal | Official MiniMax skills for AI coding agents, covering frontend, fullstack, mobile, shaders, documents, spreadsheets, presentations, and multimodal generation. |
 | [openai/codex](https://github.com/openai/codex) | `developer-tools` | coding agent, terminal, Rust, CLI | OpenAI's lightweight coding agent that runs in the terminal for agentic software development workflows. |
 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | `developer-tools` | media downloader, CLI, audio, video | A feature-rich command-line audio/video downloader that is useful in media collection, dataset preparation, and automation workflows. |
+| [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | `skills` | writing, Chinese, Claude Code, style rewriting | A Chinese-localized Claude Code skill for making generated text read more naturally and less mechanically. |
 
 ## Entry Format
 
