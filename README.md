@@ -69,6 +69,9 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [openai/codex](https://github.com/openai/codex) | `developer-tools` | coding agent, terminal, Rust, CLI | OpenAI's lightweight coding agent that runs in the terminal for agentic software development workflows. |
 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | `developer-tools` | media downloader, CLI, audio, video | A feature-rich command-line audio/video downloader that is useful in media collection, dataset preparation, and automation workflows. |
 | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | `skills` | writing, Chinese, Claude Code, style rewriting | A Chinese-localized Claude Code skill for making generated text read more naturally and less mechanically. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | `research-learning` | design language, AI UI, design systems, agents | A design language for making AI-powered coding and creative tools produce stronger visual design outcomes. |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | `skills` | taste, design critique, AI output quality | A skill that pushes AI agents away from generic output and toward more opinionated, visually stronger work. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | `applications` | video production, agents, pipelines, skills | An open source agentic video production system with pipelines, tools, and agent skills for turning coding assistants into video studios. |
 
 ## Entry Format
 

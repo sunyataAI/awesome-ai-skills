@@ -69,6 +69,9 @@ SunyataAI 正在建设面向下一代人机协作的开放式 AI 社区。我们
 | [openai/codex](https://github.com/openai/codex) | `developer-tools` | coding agent, terminal, Rust, CLI | OpenAI 的轻量级终端 coding agent，用于 Agent 化软件开发工作流。 |
 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | `developer-tools` | media downloader, CLI, audio, video | 功能丰富的命令行音视频下载工具，适合媒体采集、数据集准备和自动化流程。 |
 | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | `skills` | writing, Chinese, Claude Code, style rewriting | 中文化 Claude Code Skill，用于让生成文本读起来更自然、更少机械感。 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | `research-learning` | design language, AI UI, design systems, agents | 面向 AI 编码和创作工具的设计语言，帮助 Agent 产出更强的视觉设计结果。 |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | `skills` | taste, design critique, AI output quality | 让 AI Agent 避免通用化、模板化输出，转向更有判断力和视觉质量的作品。 |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | `applications` | video production, agents, pipelines, skills | 开源 Agent 化视频生产系统，用 pipelines、工具和 Agent skills 把编码助手扩展成视频工作室。 |
 
 ## 条目格式
 

@@ -402,3 +402,58 @@ projects:
     why_it_matters_zh: 文本润色和风格改写是 AI 内容工作流中的常见环节，这类 skill 适合作为中文写作、内容编辑和表达优化的参考；使用时仍应注意透明披露和内容真实性。
     why_it_matters_en: Text polishing and style rewriting are common parts of AI content workflows, making this skill useful for Chinese writing, editing, and expression refinement; it should still be used with attention to transparency and factual integrity.
     status: active
+
+  - name: Impeccable
+    repo: pbakaus/impeccable
+    url: https://github.com/pbakaus/impeccable
+    category: research-learning
+    tags:
+      - design-language
+      - AI-UI
+      - design-systems
+      - coding-agents
+      - visual-design
+    languages:
+      - JavaScript
+    summary_zh: 面向 AI 编码和创作工具的设计语言，目标是帮助 AI harness 更稳定地产出高质量视觉设计结果。
+    summary_en: A design language for AI-powered coding and creative tools, aimed at helping AI harnesses produce stronger visual design outcomes more reliably.
+    why_it_matters_zh: 它把 AI 生成界面的视觉质量问题抽象为可复用的设计语言和约束，适合研究 Agent 如何理解审美、设计系统和高质量 UI 输出。
+    why_it_matters_en: It frames visual quality for AI-generated interfaces as a reusable design language and constraint system, making it useful for studying how agents can reason about taste, design systems, and high-quality UI output.
+    status: active
+
+  - name: Taste Skill
+    repo: Leonxlnx/taste-skill
+    url: https://github.com/Leonxlnx/taste-skill
+    category: skills
+    tags:
+      - taste
+      - design-critique
+      - output-quality
+      - visual-design
+      - coding-agents
+    languages:
+      - JavaScript
+      - Markdown
+    summary_zh: 面向 AI Agent 的审美与输出质量 skill，目标是减少模板化、平庸化结果，引导 Agent 产出更有判断力和视觉质量的作品。
+    summary_en: A taste and output-quality skill for AI agents, aimed at reducing generic results and guiding agents toward more opinionated and visually stronger work.
+    why_it_matters_zh: 它把“审美判断”作为 Agent 能力的一部分显式写入工作流，适合和设计语言、UI 生成、前端实现类 skills 一起研究。
+    why_it_matters_en: It makes taste judgment an explicit part of agent workflows, making it useful alongside design-language, UI-generation, and frontend implementation skills.
+    status: active
+
+  - name: OpenMontage
+    repo: calesthio/OpenMontage
+    url: https://github.com/calesthio/OpenMontage
+    category: applications
+    tags:
+      - video-production
+      - agents
+      - pipelines
+      - agent-skills
+      - creative-tools
+    languages:
+      - Python
+    summary_zh: 开源 Agent 化视频生产系统，提供多条视频生产 pipeline、大量工具和 Agent skills，用于把 AI 编码助手扩展为视频生产工作室。
+    summary_en: An open source agentic video production system with multiple pipelines, many tools, and agent skills for turning AI coding assistants into a video production studio.
+    why_it_matters_zh: 它把视频创作拆成 Agent 可执行的 pipeline、工具和技能集合，适合研究多媒体生产型 Agent 应用如何组织复杂创意流程。
+    why_it_matters_en: It breaks video creation into agent-executable pipelines, tools, and skills, making it useful for studying how multimedia production agents organize complex creative workflows.
+    status: active
