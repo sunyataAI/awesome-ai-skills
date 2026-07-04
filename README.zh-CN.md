@@ -72,6 +72,7 @@ SunyataAI 正在建设面向下一代人机协作的开放式 AI 社区。我们
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | `research-learning` | design language, AI UI, design systems, agents | 面向 AI 编码和创作工具的设计语言，帮助 Agent 产出更强的视觉设计结果。 |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | `skills` | taste, design critique, AI output quality | 让 AI Agent 避免通用化、模板化输出，转向更有判断力和视觉质量的作品。 |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | `applications` | video production, agents, pipelines, skills | 开源 Agent 化视频生产系统，用 pipelines、工具和 Agent skills 把编码助手扩展成视频工作室。 |
+| [KimYx0207/HookPrompt](https://github.com/KimYx0207/HookPrompt) | `skills` | prompt optimization, hooks, Claude Code, Codex | `UserPromptSubmit` 提示词增强 hook，在 Agent 执行前把普通输入整理成结构化任务简报。 |
 
 ## 条目格式
 

@@ -72,6 +72,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | `research-learning` | design language, AI UI, design systems, agents | A design language for making AI-powered coding and creative tools produce stronger visual design outcomes. |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | `skills` | taste, design critique, AI output quality | A skill that pushes AI agents away from generic output and toward more opinionated, visually stronger work. |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | `applications` | video production, agents, pipelines, skills | An open source agentic video production system with pipelines, tools, and agent skills for turning coding assistants into video studios. |
+| [KimYx0207/HookPrompt](https://github.com/KimYx0207/HookPrompt) | `skills` | prompt optimization, hooks, Claude Code, Codex | A UserPromptSubmit hook that turns ordinary user prompts into structured, role-first task briefs before the agent executes them. |
 
 ## Entry Format
 
