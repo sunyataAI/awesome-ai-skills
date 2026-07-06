@@ -74,6 +74,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | `applications` | video production, agents, pipelines, skills | An open source agentic video production system with pipelines, tools, and agent skills for turning coding assistants into video studios. |
 | [KimYx0207/HookPrompt](https://github.com/KimYx0207/HookPrompt) | `skills` | prompt optimization, hooks, Claude Code, Codex | A UserPromptSubmit hook that turns ordinary user prompts into structured, role-first task briefs before the agent executes them. |
 | [anYuJia/better-douyin](https://github.com/anYuJia/better-douyin) | `developer-tools` | Douyin, media archive, downloader, desktop app | A local Douyin content preview, download, and archive tool for personal research, lawful backup, and source-level customization. |
+| [panggungunvibe/atutun-xhs-cover](https://github.com/panggungunvibe/atutun-xhs-cover) | `skills` | Xiaohongshu, cover design, prompt generation, social media | A Codex skill for turning topics, articles, reviews, tutorials, and recommendations into image-generation prompts for high-impact Xiaohongshu covers. |
 
 ## Entry Format
 

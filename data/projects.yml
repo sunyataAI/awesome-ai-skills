@@ -495,3 +495,22 @@ projects:
     why_it_matters_zh: 它适合作为研究媒体采集、本地归档、桌面封装和个人合法备份流程的参考；项目采用非商业许可，并强调只能用于合法公开内容和个人研究场景。
     why_it_matters_en: It is useful for studying media collection, local archiving, desktop packaging, and lawful personal backup workflows; the project uses a non-commercial license and emphasizes legal public-content use cases.
     status: active
+
+  - name: atutun xhs cover
+    repo: panggungunvibe/atutun-xhs-cover
+    url: https://github.com/panggungunvibe/atutun-xhs-cover
+    category: skills
+    tags:
+      - Xiaohongshu
+      - cover-design
+      - prompt-generation
+      - social-media
+      - image-generation
+    languages:
+      - Markdown
+      - YAML
+    summary_zh: 阿囤囤风格小红书封面提示词生成 Skill，可把文章、选题、测评、教程、资源推荐和个人经验整理成可直接用于图片生成模型的 3:4 封面提示词。
+    summary_en: A Codex skill for generating Atutun-style Xiaohongshu cover prompts, turning articles, topics, reviews, tutorials, recommendations, and personal experiences into 3:4 image-generation prompts.
+    why_it_matters_zh: 它把社媒封面设计拆成可复用的提问流程和 8 种视觉模板，适合研究内容营销、封面视觉、中文社媒设计和图片生成提示词工程。
+    why_it_matters_en: It turns social-media cover design into a reusable question flow and eight visual templates, making it useful for studying content marketing, cover design, Chinese social media visuals, and image prompt engineering.
+    status: active
