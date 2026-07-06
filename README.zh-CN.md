@@ -77,6 +77,7 @@ SunyataAI 正在建设面向下一代人机协作的开放式 AI 社区。我们
 | [panggungunvibe/atutun-xhs-cover](https://github.com/panggungunvibe/atutun-xhs-cover) | `skills` | Xiaohongshu, cover design, prompt generation, social media | 小红书封面提示词生成 Skill，可把选题、文章、测评、教程和种草内容整理成高冲击封面图提示词。 |
 | [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0) | `skills` | Seedance 2.0, AI filmmaking, video generation, multimodal | Seedance 2.0 模块化 Skill OS，用场景意图、参考素材、连续性、安全改写和交付流程来指导 AI 视频生成。 |
 | [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | `skills` | Claude Design, UI mockups, prototypes, HTML | 可移植 Agent Skill，把 Claude Design 风格的 UI mockup、原型、deck、线框图和自包含 HTML 交付带到本地编码 Agent。 |
+| [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills#-storage-analyzer清理垃圾) | `skills` | storage analyzer, cleanup, Agent Skills, HTML report | 数字生命卡兹克的 Agent Skills 合集，其中 `storage-analyzer` 可扫描磁盘占用、生成交互式清理报告，并辅助安全清理垃圾文件。 |
 
 ## 条目格式
 

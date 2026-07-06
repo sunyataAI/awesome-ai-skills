@@ -552,3 +552,22 @@ projects:
     why_it_matters_zh: 它把设计方法论、内置设计子技能、starter components 和自包含 HTML 交付组织成可安装 skill，适合研究本地 Agent 如何完成设计生成、预览、迭代和交付。
     why_it_matters_en: It packages design methodology, built-in design sub-skills, starter components, and self-contained HTML deliverables as an installable skill, making it useful for studying local-agent design generation, preview, iteration, and handoff.
     status: active
+
+  - name: Khazix Skills
+    repo: KKKKhazix/khazix-skills
+    url: https://github.com/KKKKhazix/khazix-skills
+    category: skills
+    tags:
+      - Agent-Skills
+      - storage-analyzer
+      - cleanup
+      - HTML-report
+      - disk-usage
+    languages:
+      - Python
+      - Markdown
+    summary_zh: 数字生命卡兹克开源的 Agent Skills 合集，其中 `storage-analyzer` 可通过一句话触发整机磁盘扫描，生成交互式 HTML 报告、Top 占用分析和三色分级清理建议。
+    summary_en: An open Agent Skills collection from KKKKhazix, including `storage-analyzer`, which scans disk usage from a natural-language request and produces an interactive HTML report with top usage, priority levels, and cleanup guidance.
+    why_it_matters_zh: "`storage-analyzer` 把磁盘清理从固定规则软件变成 Agent 驱动的路径解释、影响说明和确认式清理流程，适合研究本地运维型 Agent skill 如何结合扫描、解释和安全动作。"
+    why_it_matters_en: "`storage-analyzer` turns disk cleanup from fixed-rule software into an agent-driven flow with path explanations, impact notes, and confirmation-oriented cleanup actions, making it useful for studying local maintenance agent skills."
+    status: active

@@ -77,6 +77,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [panggungunvibe/atutun-xhs-cover](https://github.com/panggungunvibe/atutun-xhs-cover) | `skills` | Xiaohongshu, cover design, prompt generation, social media | A Codex skill for turning topics, articles, reviews, tutorials, and recommendations into image-generation prompts for high-impact Xiaohongshu covers. |
 | [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0) | `skills` | Seedance 2.0, AI filmmaking, video generation, multimodal | A modular Seedance 2.0 Skill OS for directing AI video generations with scene intent, references, continuity, safety rewrites, and delivery workflows. |
 | [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | `skills` | Claude Design, UI mockups, prototypes, HTML | A portable Agent Skill that brings Claude Design-style UI mockups, prototypes, decks, wireframes, and self-contained HTML deliverables into local coding agents. |
+| [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills#-storage-analyzer清理垃圾) | `skills` | storage analyzer, cleanup, Agent Skills, HTML report | A collection of Agent Skills, including `storage-analyzer` for scanning disk usage, producing an interactive cleanup report, and guiding safe trash/removal decisions. |
 
 ## Entry Format
 
