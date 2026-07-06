@@ -514,3 +514,22 @@ projects:
     why_it_matters_zh: 它把社媒封面设计拆成可复用的提问流程和 8 种视觉模板，适合研究内容营销、封面视觉、中文社媒设计和图片生成提示词工程。
     why_it_matters_en: It turns social-media cover design into a reusable question flow and eight visual templates, making it useful for studying content marketing, cover design, Chinese social media visuals, and image prompt engineering.
     status: active
+
+  - name: Seedance 2.0 Skill OS
+    repo: Emily2040/seedance-2.0
+    url: https://github.com/Emily2040/seedance-2.0
+    category: skills
+    tags:
+      - Seedance-2.0
+      - AI-filmmaking
+      - video-generation
+      - multimodal
+      - prompt-engineering
+    languages:
+      - Python
+      - Markdown
+    summary_zh: 面向 Seedance 2.0 的模块化 AI 电影制作 Skill OS，覆盖文本、图像、视频和参考素材到视频的提示词、连续镜头、导演意图、安全改写和交付 QC 工作流。
+    summary_en: A modular AI filmmaking Skill OS for Seedance 2.0, covering text, image, video, and reference-to-video prompting, sequence continuity, directorial intent, safety rewrites, and delivery/QC workflows.
+    why_it_matters_zh: 它把视频生成从“堆砌 cinematic 形容词”推进到导演式场景意图、参考素材角色、连续性台账和专业交付流程，适合研究多模态视频 Agent skill 如何组织复杂创作。
+    why_it_matters_en: It moves video generation beyond generic cinematic adjectives toward scene intent, reference roles, continuity ledgers, and professional delivery workflows, making it useful for studying complex multimodal video-agent skills.
+    status: active
