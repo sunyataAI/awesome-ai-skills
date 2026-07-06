@@ -476,3 +476,22 @@ projects:
     why_it_matters_zh: 它不是普通手动调用 skill，而是全局 `UserPromptSubmit` hook，适合研究 prompt enhancer 如何嵌入 Agent 工作流；安装时需注意它会影响所有项目输入，并可能记录提示词片段到本地临时日志。
     why_it_matters_en: It is a global `UserPromptSubmit` hook rather than a normal manually invoked skill, making it useful for studying how prompt enhancers plug into agent workflows; installation should account for its global effect and local prompt-fragment logging.
     status: active
+
+  - name: better-douyin
+    repo: anYuJia/better-douyin
+    url: https://github.com/anYuJia/better-douyin
+    category: developer-tools
+    tags:
+      - Douyin
+      - media-archive
+      - downloader
+      - desktop-app
+      - local-first
+    languages:
+      - TypeScript
+      - Python
+    summary_zh: 抖音内容下载、预览与本地归档工具，支持桌面窗口、浏览器和无界面模式，可从 Releases 下载跨平台发行版。
+    summary_en: A Douyin content download, preview, and local archive tool with desktop, browser, and headless modes, distributed through cross-platform releases.
+    why_it_matters_zh: 它适合作为研究媒体采集、本地归档、桌面封装和个人合法备份流程的参考；项目采用非商业许可，并强调只能用于合法公开内容和个人研究场景。
+    why_it_matters_en: It is useful for studying media collection, local archiving, desktop packaging, and lawful personal backup workflows; the project uses a non-commercial license and emphasizes legal public-content use cases.
+    status: active

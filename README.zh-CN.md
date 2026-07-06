@@ -73,6 +73,7 @@ SunyataAI 正在建设面向下一代人机协作的开放式 AI 社区。我们
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | `skills` | taste, design critique, AI output quality | 让 AI Agent 避免通用化、模板化输出，转向更有判断力和视觉质量的作品。 |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | `applications` | video production, agents, pipelines, skills | 开源 Agent 化视频生产系统，用 pipelines、工具和 Agent skills 把编码助手扩展成视频工作室。 |
 | [KimYx0207/HookPrompt](https://github.com/KimYx0207/HookPrompt) | `skills` | prompt optimization, hooks, Claude Code, Codex | `UserPromptSubmit` 提示词增强 hook，在 Agent 执行前把普通输入整理成结构化任务简报。 |
+| [anYuJia/better-douyin](https://github.com/anYuJia/better-douyin) | `developer-tools` | Douyin, media archive, downloader, desktop app | 抖音内容预览、下载和本地归档工具，适合个人研究、合法备份和源码级定制。 |
 
 ## 条目格式
 
