@@ -76,6 +76,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [anYuJia/better-douyin](https://github.com/anYuJia/better-douyin) | `developer-tools` | Douyin, media archive, downloader, desktop app | A local Douyin content preview, download, and archive tool for personal research, lawful backup, and source-level customization. |
 | [panggungunvibe/atutun-xhs-cover](https://github.com/panggungunvibe/atutun-xhs-cover) | `skills` | Xiaohongshu, cover design, prompt generation, social media | A Codex skill for turning topics, articles, reviews, tutorials, and recommendations into image-generation prompts for high-impact Xiaohongshu covers. |
 | [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0) | `skills` | Seedance 2.0, AI filmmaking, video generation, multimodal | A modular Seedance 2.0 Skill OS for directing AI video generations with scene intent, references, continuity, safety rewrites, and delivery workflows. |
+| [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | `skills` | Claude Design, UI mockups, prototypes, HTML | A portable Agent Skill that brings Claude Design-style UI mockups, prototypes, decks, wireframes, and self-contained HTML deliverables into local coding agents. |
 
 ## Entry Format
 

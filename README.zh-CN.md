@@ -76,6 +76,7 @@ SunyataAI 正在建设面向下一代人机协作的开放式 AI 社区。我们
 | [anYuJia/better-douyin](https://github.com/anYuJia/better-douyin) | `developer-tools` | Douyin, media archive, downloader, desktop app | 抖音内容预览、下载和本地归档工具，适合个人研究、合法备份和源码级定制。 |
 | [panggungunvibe/atutun-xhs-cover](https://github.com/panggungunvibe/atutun-xhs-cover) | `skills` | Xiaohongshu, cover design, prompt generation, social media | 小红书封面提示词生成 Skill，可把选题、文章、测评、教程和种草内容整理成高冲击封面图提示词。 |
 | [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0) | `skills` | Seedance 2.0, AI filmmaking, video generation, multimodal | Seedance 2.0 模块化 Skill OS，用场景意图、参考素材、连续性、安全改写和交付流程来指导 AI 视频生成。 |
+| [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | `skills` | Claude Design, UI mockups, prototypes, HTML | 可移植 Agent Skill，把 Claude Design 风格的 UI mockup、原型、deck、线框图和自包含 HTML 交付带到本地编码 Agent。 |
 
 ## 条目格式
 

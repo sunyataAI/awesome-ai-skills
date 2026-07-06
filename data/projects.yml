@@ -533,3 +533,22 @@ projects:
     why_it_matters_zh: 它把视频生成从“堆砌 cinematic 形容词”推进到导演式场景意图、参考素材角色、连续性台账和专业交付流程，适合研究多模态视频 Agent skill 如何组织复杂创作。
     why_it_matters_en: It moves video generation beyond generic cinematic adjectives toward scene intent, reference roles, continuity ledgers, and professional delivery workflows, making it useful for studying complex multimodal video-agent skills.
     status: active
+
+  - name: baoyu-design
+    repo: JimLiu/baoyu-design
+    url: https://github.com/JimLiu/baoyu-design
+    category: skills
+    tags:
+      - Claude-Design
+      - UI-mockups
+      - prototypes
+      - HTML
+      - design-systems
+    languages:
+      - JavaScript
+      - Markdown
+    summary_zh: 可移植 Agent Skill，将 Claude Design 风格的设计流程带到 Cursor、Claude Code、Codex 等本地编码 Agent 中，用于生成 UI mockups、交互原型、线框图、落地页、dashboard、移动应用和 deck。
+    summary_en: A portable Agent Skill that brings Claude Design-style workflows into local coding agents such as Cursor, Claude Code, and Codex for generating UI mockups, interactive prototypes, wireframes, landing pages, dashboards, mobile apps, and decks.
+    why_it_matters_zh: 它把设计方法论、内置设计子技能、starter components 和自包含 HTML 交付组织成可安装 skill，适合研究本地 Agent 如何完成设计生成、预览、迭代和交付。
+    why_it_matters_en: It packages design methodology, built-in design sub-skills, starter components, and self-contained HTML deliverables as an installable skill, making it useful for studying local-agent design generation, preview, iteration, and handoff.
+    status: active
