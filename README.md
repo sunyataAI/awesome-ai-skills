@@ -79,6 +79,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) | `skills` | Claude Design, UI mockups, prototypes, HTML | A portable Agent Skill that brings Claude Design-style UI mockups, prototypes, decks, wireframes, and self-contained HTML deliverables into local coding agents. |
 | [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills#-storage-analyzer清理垃圾) | `skills` | storage analyzer, cleanup, Agent Skills, HTML report | A collection of Agent Skills, including `storage-analyzer` for scanning disk usage, producing an interactive cleanup report, and guiding safe trash/removal decisions. |
 | [browser-use/video-use](https://github.com/browser-use/video-use) | `skills` | video editing, ffmpeg, transcription, agents | An open source video-editing skill for coding agents that turns raw footage into `final.mp4` using transcripts, EDL reasoning, ffmpeg rendering, and self-evaluation. |
+| [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) | `applications` | reMarkable, handwriting, vision LLM, e-ink | An AI diary for reMarkable Paper Pro where handwritten ink is read by a vision LLM and answered back as animated handwriting on e-ink. |
 
 ## Entry Format
 

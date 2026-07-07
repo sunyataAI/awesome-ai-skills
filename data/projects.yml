@@ -590,3 +590,22 @@ projects:
     why_it_matters_zh: 它把视频剪辑转化为 Agent 可读的文本转写、按需视觉时间线和确认式执行流程，适合研究多媒体编辑 Agent 如何在不逐帧读取视频的情况下完成剪辑。
     why_it_matters_en: It turns video editing into agent-readable transcripts, on-demand visual timelines, and confirmation-based execution, making it useful for studying multimedia editing agents that avoid frame-dumping.
     status: active
+
+  - name: Riddle
+    repo: MaximeRivest/riddle
+    url: https://github.com/MaximeRivest/riddle
+    category: applications
+    tags:
+      - reMarkable
+      - handwriting
+      - vision-LLM
+      - e-ink
+      - AI-diary
+    languages:
+      - Rust
+      - C++
+    summary_zh: 面向 reMarkable Paper Pro 的 AI 日记应用，用户用笔在电子墨水屏上书写，页面将手写内容提交给视觉 LLM，再以流动手写动画回复。
+    summary_en: An AI diary for reMarkable Paper Pro where users write with a pen on e-ink, the page sends the handwriting to a vision LLM, and the reply is rendered back as animated handwriting.
+    why_it_matters_zh: 它展示了无键盘、无聊天 UI 的硬件原生 AI 交互形态，结合手写输入、视觉模型、电子墨水显示和流式回复；安装需要开发者模式/root，并会修改设备运行状态，适合谨慎研究。
+    why_it_matters_en: It demonstrates a hardware-native AI interaction without keyboard or chat UI, combining handwriting input, vision models, e-ink rendering, and streamed responses; installation requires developer mode/root and modifies device runtime state, so it is best studied carefully.
+    status: active
