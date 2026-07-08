@@ -81,6 +81,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [browser-use/video-use](https://github.com/browser-use/video-use) | `skills` | video editing, ffmpeg, transcription, agents | An open source video-editing skill for coding agents that turns raw footage into `final.mp4` using transcripts, EDL reasoning, ffmpeg rendering, and self-evaluation. |
 | [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) | `applications` | reMarkable, handwriting, vision LLM, e-ink | An AI diary for reMarkable Paper Pro where handwritten ink is read by a vision LLM and answered back as animated handwriting on e-ink. |
 | [chuspeeism/dashiAI-ppt-skill](https://github.com/chuspeeism/dashiAI-ppt-skill) | `skills` | PPT, HTML deck, PPTX export, agent skill | An agent skill for generating editable HTML presentations with built-in page controls and exporting them as real editable PPTX files. |
+| [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | `applications` | video generation, TTS, ComfyUI, automation | A fully automated short-video engine that turns a topic into scripts, AI visuals/video, voiceover, background music, and a rendered video. |
 
 ## Entry Format
 

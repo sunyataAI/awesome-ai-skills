@@ -628,3 +628,21 @@ projects:
     why_it_matters_zh: 它把“生成 PPT”推进到“生成后可编辑和可交付”，提供多套主题、大量版式、浏览器内修改、自动写回和 PPTX/PDF/HTML 导出，适合研究演示文稿类 Agent Skill 的完整交付链路。
     why_it_matters_en: It pushes presentation generation toward post-generation editing and real delivery, combining themes, layout libraries, browser-side controls, file writeback, and PPTX/PDF/HTML export for studying full presentation-agent workflows.
     status: active
+
+  - name: Pixelle-Video
+    repo: ATH-MaaS/Pixelle-Video
+    url: https://github.com/ATH-MaaS/Pixelle-Video
+    category: applications
+    tags:
+      - video-generation
+      - short-video
+      - TTS
+      - ComfyUI
+      - automation
+    languages:
+      - Python
+    summary_zh: AI 全自动短视频引擎，输入一个主题即可自动生成视频文案、AI 配图或视频、语音解说、背景音乐，并完成最终视频合成。
+    summary_en: A fully automated AI short-video engine that turns a topic into scripts, AI-generated images or video, voiceover, background music, and a final rendered video.
+    why_it_matters_zh: 它把短视频生产拆成脚本、视觉规划、图像/视频生成、TTS、BGM 和合成等可替换模块，支持 ComfyUI、RunningHub 和直连模型 API，适合研究端到端内容生产流水线和多模型编排。
+    why_it_matters_en: It breaks short-video production into replaceable modules for scripting, visual planning, image/video generation, TTS, BGM, and rendering, with support for ComfyUI, RunningHub, and direct model APIs for studying end-to-end content pipelines.
+    status: active
