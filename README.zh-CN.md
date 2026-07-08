@@ -80,6 +80,7 @@ SunyataAI 正在建设面向下一代人机协作的开放式 AI 社区。我们
 | [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills#-storage-analyzer清理垃圾) | `skills` | storage analyzer, cleanup, Agent Skills, HTML report | 数字生命卡兹克的 Agent Skills 合集，其中 `storage-analyzer` 可扫描磁盘占用、生成交互式清理报告，并辅助安全清理垃圾文件。 |
 | [browser-use/video-use](https://github.com/browser-use/video-use) | `skills` | video editing, ffmpeg, transcription, agents | 面向编码 Agent 的开源视频剪辑 skill，用转写、EDL 推理、ffmpeg 渲染和自检流程把原始素材剪成 `final.mp4`。 |
 | [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) | `applications` | reMarkable, handwriting, vision LLM, e-ink | reMarkable Paper Pro 上的 AI 日记应用：手写内容由视觉 LLM 读取，再以手写动画在电子墨水屏上回复。 |
+| [chuspeeism/dashiAI-ppt-skill](https://github.com/chuspeeism/dashiAI-ppt-skill) | `skills` | PPT, HTML deck, PPTX export, agent skill | 面向职场演示文稿的 Agent Skill，可生成带页面控制台的 HTML PPT，并导出真实可编辑的 PPTX 文件。 |
 
 ## 条目格式
 

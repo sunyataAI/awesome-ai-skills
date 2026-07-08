@@ -609,3 +609,22 @@ projects:
     why_it_matters_zh: 它展示了无键盘、无聊天 UI 的硬件原生 AI 交互形态，结合手写输入、视觉模型、电子墨水显示和流式回复；安装需要开发者模式/root，并会修改设备运行状态，适合谨慎研究。
     why_it_matters_en: It demonstrates a hardware-native AI interaction without keyboard or chat UI, combining handwriting input, vision models, e-ink rendering, and streamed responses; installation requires developer mode/root and modifies device runtime state, so it is best studied carefully.
     status: active
+
+  - name: DashiAI PPT Skill
+    repo: chuspeeism/dashiAI-ppt-skill
+    url: https://github.com/chuspeeism/dashiAI-ppt-skill
+    category: skills
+    tags:
+      - PPT
+      - HTML-deck
+      - PPTX-export
+      - presentations
+      - agent-skill
+    languages:
+      - JavaScript
+      - Markdown
+    summary_zh: 面向职场演示文稿的 Agent Skill，可把文档或主题生成可离线打开、横向翻页、每页自带编辑控制台的 HTML PPT，并支持导出为真实可编辑的 PPTX。
+    summary_en: An agent skill for workplace presentations that turns documents or topics into offline-friendly, horizontally paged HTML decks with per-slide editing controls and editable PPTX export.
+    why_it_matters_zh: 它把“生成 PPT”推进到“生成后可编辑和可交付”，提供多套主题、大量版式、浏览器内修改、自动写回和 PPTX/PDF/HTML 导出，适合研究演示文稿类 Agent Skill 的完整交付链路。
+    why_it_matters_en: It pushes presentation generation toward post-generation editing and real delivery, combining themes, layout libraries, browser-side controls, file writeback, and PPTX/PDF/HTML export for studying full presentation-agent workflows.
+    status: active
