@@ -16,6 +16,22 @@ projects:
     why_it_matters_en: Useful as a reference for understanding MCP server boundaries, implementation structure, and integration patterns.
     status: active
 
+  - name: RunAPI MCP Server
+    repo: runapi-ai/mcp
+    url: https://github.com/runapi-ai/mcp
+    category: mcp
+    tags:
+      - MCP
+      - model APIs
+      - multimodal
+    languages:
+      - TypeScript
+    summary_zh: RunAPI MCP Server 让 Agent 通过 RunAPI 执行图片、视频、音乐/音频和其他模型 API 工作流。
+    summary_en: RunAPI MCP Server lets agents run image, video, music/audio, and other model API workflows through RunAPI.
+    why_it_matters_zh: 适合需要把多模态模型调用接入 Claude、Codex、Cursor 等 MCP 客户端的工作流。
+    why_it_matters_en: Useful for workflows that need to connect multimodal model calls to MCP clients such as Claude, Codex, and Cursor.
+    status: active
+
   - name: OpenAI Cookbook
     repo: openai/openai-cookbook
     url: https://github.com/openai/openai-cookbook
