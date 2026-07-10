@@ -82,6 +82,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) | `applications` | reMarkable, handwriting, vision LLM, e-ink | An AI diary for reMarkable Paper Pro where handwritten ink is read by a vision LLM and answered back as animated handwriting on e-ink. |
 | [chuspeeism/dashiAI-ppt-skill](https://github.com/chuspeeism/dashiAI-ppt-skill) | `skills` | PPT, HTML deck, PPTX export, agent skill | An agent skill for generating editable HTML presentations with built-in page controls and exporting them as real editable PPTX files. |
 | [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | `applications` | video generation, TTS, ComfyUI, automation | A fully automated short-video engine that turns a topic into scripts, AI visuals/video, voiceover, background music, and a rendered video. |
+| [WatchaAI/e-commerce 商品详情页 skill](https://github.com/WatchaAI/e-commerce/tree/main/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B5skill) | `skills` | e-commerce, product detail page, image generation, workflow | A Codex-friendly workflow skill for turning product photos, selling points, and reference pages into e-commerce detail-page visual plans and 9:16 screen images. |
 
 ## Entry Format
 

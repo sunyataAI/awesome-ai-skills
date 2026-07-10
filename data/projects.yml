@@ -646,3 +646,21 @@ projects:
     why_it_matters_zh: 它把短视频生产拆成脚本、视觉规划、图像/视频生成、TTS、BGM 和合成等可替换模块，支持 ComfyUI、RunningHub 和直连模型 API，适合研究端到端内容生产流水线和多模型编排。
     why_it_matters_en: It breaks short-video production into replaceable modules for scripting, visual planning, image/video generation, TTS, BGM, and rendering, with support for ComfyUI, RunningHub, and direct model APIs for studying end-to-end content pipelines.
     status: active
+
+  - name: E-commerce Detail Page Workflow Skill
+    repo: WatchaAI/e-commerce
+    url: https://github.com/WatchaAI/e-commerce/tree/main/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B5skill
+    category: skills
+    tags:
+      - e-commerce
+      - product-detail-page
+      - image-generation
+      - workflow
+      - Codex
+    languages:
+      - Markdown
+    summary_zh: 面向电商商品详情页的工作流 skill，按产品图、产品信息、参考详情页三步收集素材，完成产品图诊断精修、卖点梳理、详情页视觉策划、分屏提示词提取和 9:16 分屏生图。
+    summary_en: A workflow skill for e-commerce product detail pages, collecting product photos, product information, and reference pages before retouching product images, planning selling points, extracting per-screen prompts, and generating 9:16 page images.
+    why_it_matters_zh: 它把电商详情页设计拆成可执行的 Agent 流程，强调真实产品图、细节不编造、参考页节奏复用、多角度一致性和按屏生成，适合研究商品营销图文类 AI workflow 的落地方式。
+    why_it_matters_en: It turns e-commerce detail-page design into an executable agent workflow, emphasizing real product photos, no unsupported claims, reference-page rhythm reuse, multi-angle consistency, and screen-by-screen generation for studying AI marketing-visual workflows.
+    status: active
