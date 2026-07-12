@@ -664,3 +664,21 @@ projects:
     why_it_matters_zh: 它把电商详情页设计拆成可执行的 Agent 流程，强调真实产品图、细节不编造、参考页节奏复用、多角度一致性和按屏生成，适合研究商品营销图文类 AI workflow 的落地方式。
     why_it_matters_en: It turns e-commerce detail-page design into an executable agent workflow, emphasizing real product photos, no unsupported claims, reference-page rhythm reuse, multi-angle consistency, and screen-by-screen generation for studying AI marketing-visual workflows.
     status: active
+
+  - name: Skills for Design Engineers
+    repo: emilkowalski/skills
+    url: https://github.com/emilkowalski/skills
+    category: skills
+    tags:
+      - design-engineering
+      - animation
+      - UI-taste
+      - Apple-design
+      - motion
+    languages:
+      - Markdown
+    summary_zh: Emil Kowalski 维护的设计工程 skills 集合，包含主设计工程 skill、动画严格评审、代码库动画改进计划、动画词汇和 Apple 设计原则等内容。
+    summary_en: A collection of design-engineering skills by Emil Kowalski, including a main design-engineering skill, strict animation review, codebase animation improvement planning, animation vocabulary, and Apple design principles.
+    why_it_matters_zh: 它把 UI 动效、缓动、时长、物理感、可中断性、性能、可访问性和审美判断整理成 Agent 可执行规则，适合提升前端界面和动画生成质量。
+    why_it_matters_en: It turns UI motion, easing, duration, physicality, interruptibility, performance, accessibility, and taste judgment into agent-readable rules for improving frontend interface and animation quality.
+    status: active
