@@ -84,6 +84,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | `applications` | video generation, TTS, ComfyUI, automation | A fully automated short-video engine that turns a topic into scripts, AI visuals/video, voiceover, background music, and a rendered video. |
 | [WatchaAI/e-commerce 商品详情页 skill](https://github.com/WatchaAI/e-commerce/tree/main/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B5skill) | `skills` | e-commerce, product detail page, image generation, workflow | A Codex-friendly workflow skill for turning product photos, selling points, and reference pages into e-commerce detail-page visual plans and 9:16 screen images. |
 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | `skills` | design engineering, animation, UI taste, Apple design | A set of design-engineering skills for helping agents make stronger UI and motion decisions, including animation review, improvement planning, and design vocabulary. |
+| [MengTo/Skills](https://github.com/MengTo/Skills) | `skills` | Codex, web design, frontend workflows, prompts | A large agent-skills library for designers and builders, covering Codex workflows, media sourcing, UI prompting, landing pages, WebGL, GSAP, Tailwind, and reusable frontend design patterns. |
 
 ## Entry Format
 

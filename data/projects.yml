@@ -682,3 +682,22 @@ projects:
     why_it_matters_zh: 它把 UI 动效、缓动、时长、物理感、可中断性、性能、可访问性和审美判断整理成 Agent 可执行规则，适合提升前端界面和动画生成质量。
     why_it_matters_en: It turns UI motion, easing, duration, physicality, interruptibility, performance, accessibility, and taste judgment into agent-readable rules for improving frontend interface and animation quality.
     status: active
+
+  - name: Agent Skills
+    repo: MengTo/Skills
+    url: https://github.com/MengTo/Skills
+    category: skills
+    tags:
+      - Codex
+      - web-design
+      - frontend-workflows
+      - prompts
+      - UI
+    languages:
+      - Python
+      - Markdown
+    summary_zh: Meng To 维护的 Agent skills 集合，面向 Codex、Claude、Cursor 等 AI coding agents，覆盖 Codex 工作流、媒体素材、UI prompting、落地页、WebGL、GSAP、Tailwind、Three.js 等前端设计与实现场景。
+    summary_en: An agent-skills collection by Meng To for Codex, Claude, Cursor, and other AI coding agents, covering Codex workflows, media assets, UI prompting, landing pages, WebGL, GSAP, Tailwind, Three.js, and related frontend design/implementation patterns.
+    why_it_matters_zh: 它把设计参考采集、视频转超级提示词、HTML 交互提示词、全页截图、日常 UI 灵感、动效和 Web 视觉系统沉淀成可版本化的 skill 文件，适合研究 prompt/workflow 如何成为前端生产资产。
+    why_it_matters_en: It turns design-reference capture, video-to-superprompt workflows, HTML interaction prompts, stitched page capture, UI inspiration loops, motion, and web visual systems into versioned skill files, making it useful for studying prompts and workflows as frontend production assets.
+    status: active

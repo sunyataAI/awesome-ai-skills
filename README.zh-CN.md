@@ -84,6 +84,7 @@ SunyataAI 正在建设面向下一代人机协作的开放式 AI 社区。我们
 | [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | `applications` | video generation, TTS, ComfyUI, automation | AI 全自动短视频引擎，可从一个主题自动完成文案、AI 配图/视频、语音解说、背景音乐和视频合成。 |
 | [WatchaAI/e-commerce 商品详情页 skill](https://github.com/WatchaAI/e-commerce/tree/main/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85%E9%A1%B5skill) | `skills` | e-commerce, product detail page, image generation, workflow | 面向电商详情页的 Codex 工作流 skill，用产品图、卖点信息和参考详情页生成视觉策划与 9:16 分屏图。 |
 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | `skills` | design engineering, animation, UI taste, Apple design | 面向设计工程师的 UI 与动效 taste skills，帮助 Agent 做出更好的界面、动画、审美和设计语言判断。 |
+| [MengTo/Skills](https://github.com/MengTo/Skills) | `skills` | Codex, web design, frontend workflows, prompts | 面向设计师和 builder 的大型 Agent skills 库，覆盖 Codex 工作流、媒体素材、UI prompting、落地页、WebGL、GSAP、Tailwind 和前端设计模式。 |
 
 ## 条目格式
 
