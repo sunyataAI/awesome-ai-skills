@@ -701,3 +701,22 @@ projects:
     why_it_matters_zh: 它把设计参考采集、视频转超级提示词、HTML 交互提示词、全页截图、日常 UI 灵感、动效和 Web 视觉系统沉淀成可版本化的 skill 文件，适合研究 prompt/workflow 如何成为前端生产资产。
     why_it_matters_en: It turns design-reference capture, video-to-superprompt workflows, HTML interaction prompts, stitched page capture, UI inspiration loops, motion, and web visual systems into versioned skill files, making it useful for studying prompts and workflows as frontend production assets.
     status: active
+
+  - name: OfficeCLI
+    repo: iOfficeAI/OfficeCLI
+    url: https://github.com/iOfficeAI/OfficeCLI
+    category: developer-tools
+    tags:
+      - Office
+      - CLI
+      - DOCX
+      - XLSX
+      - PPTX
+      - agents
+    languages:
+      - C#
+    summary_zh: 面向 AI Agent 的开源 Office 自动化 CLI，以单文件二进制形式提供 Word、Excel、PowerPoint 的创建、读取、结构化查询、编辑、渲染预览和质量校验能力，无需安装 Microsoft Office。
+    summary_en: An open source Office automation CLI for AI agents, shipped as a single binary for creating, reading, querying, editing, rendering, and validating Word, Excel, and PowerPoint files without Microsoft Office installed.
+    why_it_matters_zh: 它把 Office 文档操作转成 Agent 可执行的命令和结构化路径，并通过 HTML/PNG 渲染形成“生成-查看-修正”的反馈闭环，适合文档自动化、报告生成和 Office Agent 工作流。
+    why_it_matters_en: It turns Office document work into agent-executable commands and structured paths, with HTML/PNG rendering for a generate-look-fix feedback loop, making it valuable for document automation, report generation, and Office-agent workflows.
+    status: active
