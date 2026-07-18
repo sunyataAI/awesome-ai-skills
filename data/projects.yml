@@ -720,3 +720,23 @@ projects:
     why_it_matters_zh: 它把 Office 文档操作转成 Agent 可执行的命令和结构化路径，并通过 HTML/PNG 渲染形成“生成-查看-修正”的反馈闭环，适合文档自动化、报告生成和 Office Agent 工作流。
     why_it_matters_en: It turns Office document work into agent-executable commands and structured paths, with HTML/PNG rendering for a generate-look-fix feedback loop, making it valuable for document automation, report generation, and Office-agent workflows.
     status: active
+
+  - name: Kami
+    repo: tw93/Kami
+    url: https://github.com/tw93/Kami
+    category: skills
+    tags:
+      - documents
+      - slides
+      - design-system
+      - multilingual
+      - landing-pages
+    languages:
+      - HTML
+      - Python
+      - Markdown
+    summary_zh: 面向 Agent 的文档设计系统 skill，用统一的版式、字体、色彩和模板约束生成一页纸、长文档、信件、作品集、简历、幻灯片、研报、更新日志和落地页，支持英文、中文、日文、韩文路径。
+    summary_en: A document design-system skill for agents that uses a consistent layout, type, color, and template language to produce one-pagers, long documents, letters, portfolios, resumes, slide decks, equity reports, changelogs, and landing pages across English, Chinese, Japanese, and Korean paths.
+    why_it_matters_zh: 它把高质量“纸面交付”从每次临场排版变成可安装、可复用、可视觉校验的 skill，适合研究 Agent 如何稳定输出专业文档、幻灯片和品牌化落地页。
+    why_it_matters_en: It turns high-quality document delivery from one-off styling into an installable, reusable, visually checkable skill, making it useful for studying how agents can reliably ship professional documents, slides, and branded landing pages.
+    status: active
