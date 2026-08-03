@@ -87,6 +87,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [MengTo/Skills](https://github.com/MengTo/Skills) | `skills` | Codex, web design, frontend workflows, prompts | A large agent-skills library for designers and builders, covering Codex workflows, media sourcing, UI prompting, landing pages, WebGL, GSAP, Tailwind, and reusable frontend design patterns. |
 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | `developer-tools` | Office, CLI, DOCX, XLSX, PPTX, agents | A single-binary Office automation CLI for AI agents to create, inspect, edit, render, and validate Word, Excel, and PowerPoint files without Microsoft Office installed. |
 | [tw93/Kami](https://github.com/tw93/Kami) | `skills` | documents, slides, design system, multilingual | A quiet design-system skill for agents to produce polished one-pagers, long documents, letters, portfolios, resumes, slide decks, reports, changelogs, and landing pages. |
+| [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | `skills` | Remotion, AI video, product video, shot recipes, Codex | An AI video skill for Claude Code and Codex that turns product pages into cinematic promo videos with shot recipe cards, real page captures, 2.5D camera moves, beat-synced cuts, and sound design. |
 
 ## Entry Format
 
