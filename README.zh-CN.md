@@ -88,6 +88,7 @@ SunyataAI 正在建设面向下一代人机协作的开放式 AI 社区。我们
 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | `developer-tools` | Office, CLI, DOCX, XLSX, PPTX, agents | 面向 AI Agent 的单文件 Office 自动化 CLI，可在不安装 Microsoft Office 的情况下创建、读取、编辑、渲染和校验 Word、Excel、PowerPoint 文件。 |
 | [tw93/Kami](https://github.com/tw93/Kami) | `skills` | documents, slides, design system, multilingual | 面向 Agent 的安静高级文档设计系统 skill，用统一约束生成一页纸、长文档、信件、作品集、简历、幻灯片、研报、更新日志和落地页。 |
 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | `skills` | Remotion, AI video, product video, shot recipes, Codex | 面向 Claude Code 和 Codex 的电影感产品视频制作 skill，用镜头配方卡、真实页面截图、Remotion 动画、2.5D 运镜、卡点剪辑和音效设计生成宣传片。 |
+| [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | `agents` | multi-agent, CAD, text-to-CAD, build123d, LangGraph | 面向 text-to-CAD 的多 Agent 框架，用结构化规划、代码生成、QA 和修复循环把自然语言需求生成可打印的 STEP/STL 模型。 |
 
 ## 条目格式
 

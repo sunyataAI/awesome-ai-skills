@@ -760,3 +760,22 @@ projects:
     why_it_matters_zh: 它把产品视频制作拆成可执行的 Agent 流程，提供 104 张镜头配方卡、161 个动态预览、Remotion demo、Ink Press 成片模板、音频资产和 QA 标准，适合研究高质量视频生产如何进入 coding-agent 工作流。
     why_it_matters_en: It turns product-video production into an executable agent workflow with 104 shot recipe cards, 161 motion previews, Remotion demos, the Ink Press production template, audio assets, and QA standards for studying high-quality video creation inside coding-agent workflows.
     status: active
+
+  - name: Multi-Agent CAD
+    repo: Pan-Chera/Multi-Agent-CAD
+    url: https://github.com/Pan-Chera/Multi-Agent-CAD
+    category: agents
+    tags:
+      - multi-agent
+      - CAD
+      - text-to-CAD
+      - build123d
+      - LangGraph
+      - 3D-printing
+    languages:
+      - Python
+    summary_zh: 清华 IEI Lab 的 text-to-CAD 多 Agent 框架，通过 Spec Planner、Geometric Architect、Python Coder 和 Autonomous Skill Loop 四阶段协作，把自然语言需求生成可打印的 STEP/STL CAD 模型。
+    summary_en: A text-to-CAD multi-agent framework from Tsinghua IEI Lab that uses Spec Planner, Geometric Architect, Python Coder, and an Autonomous Skill Loop to turn natural-language requirements into printable STEP/STL CAD models.
+    why_it_matters_zh: 它用结构化状态在 Agent 之间交接，减少完整上下文重放，并结合 build123d、LangGraph、Aider、确定性几何翻译器和白盒 QA/修复循环，适合研究工程设计类 Agent 如何降低推理成本并提升可审计性。
+    why_it_matters_en: It passes structured state between agents instead of replaying full context, combining build123d, LangGraph, Aider, deterministic geometric translation, and white-box QA/repair loops for studying lower-cost, auditable engineering-design agents.
+    status: active

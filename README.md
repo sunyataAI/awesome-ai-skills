@@ -88,6 +88,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | `developer-tools` | Office, CLI, DOCX, XLSX, PPTX, agents | A single-binary Office automation CLI for AI agents to create, inspect, edit, render, and validate Word, Excel, and PowerPoint files without Microsoft Office installed. |
 | [tw93/Kami](https://github.com/tw93/Kami) | `skills` | documents, slides, design system, multilingual | A quiet design-system skill for agents to produce polished one-pagers, long documents, letters, portfolios, resumes, slide decks, reports, changelogs, and landing pages. |
 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | `skills` | Remotion, AI video, product video, shot recipes, Codex | An AI video skill for Claude Code and Codex that turns product pages into cinematic promo videos with shot recipe cards, real page captures, 2.5D camera moves, beat-synced cuts, and sound design. |
+| [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | `agents` | multi-agent, CAD, text-to-CAD, build123d, LangGraph | A decoupled multi-agent text-to-CAD framework that turns natural-language requirements into printable STEP/STL models through structured planning, code generation, QA, and repair loops. |
 
 ## Entry Format
 
