@@ -779,3 +779,19 @@ projects:
     why_it_matters_zh: 它用结构化状态在 Agent 之间交接，减少完整上下文重放，并结合 build123d、LangGraph、Aider、确定性几何翻译器和白盒 QA/修复循环，适合研究工程设计类 Agent 如何降低推理成本并提升可审计性。
     why_it_matters_en: It passes structured state between agents instead of replaying full context, combining build123d, LangGraph, Aider, deterministic geometric translation, and white-box QA/repair loops for studying lower-cost, auditable engineering-design agents.
     status: active
+
+  - name: X Twitter Scraper
+    repo: Xquik-dev/x-twitter-scraper
+    url: https://github.com/Xquik-dev/x-twitter-scraper
+    category: mcp
+    tags:
+      - MCP
+      - agent-skill
+      - social-data
+    languages:
+      - TypeScript
+    summary_zh: 面向 X 数据工作流的开源 Agent Skill 和远程 MCP 集成，涵盖搜索、导出、监控和需要确认的账号操作。
+    summary_en: An open source agent Skill and remote MCP integration for X data workflows, including search, exports, monitoring, and confirmation-gated account actions.
+    why_it_matters_zh: 可用于研究社交数据工具如何处理不可信内容、区分只读与写入操作，并在 Agent 工作流中加入明确确认步骤。
+    why_it_matters_en: Useful for studying how social-data tools isolate untrusted content, separate reads from writes, and add explicit confirmation to agent workflows.
+    status: active
