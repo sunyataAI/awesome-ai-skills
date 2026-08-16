@@ -779,3 +779,21 @@ projects:
     why_it_matters_zh: 它用结构化状态在 Agent 之间交接，减少完整上下文重放，并结合 build123d、LangGraph、Aider、确定性几何翻译器和白盒 QA/修复循环，适合研究工程设计类 Agent 如何降低推理成本并提升可审计性。
     why_it_matters_en: It passes structured state between agents instead of replaying full context, combining build123d, LangGraph, Aider, deterministic geometric translation, and white-box QA/repair loops for studying lower-cost, auditable engineering-design agents.
     status: active
+
+  - name: Agent QA
+    repo: vostride/agent-qa
+    url: https://github.com/vostride/agent-qa
+    category: developer-tools
+    tags:
+      - QA
+      - browser-automation
+      - MCP
+      - agent-skills
+      - self-healing
+    languages:
+      - TypeScript
+    summary_zh: 面向软件团队的自改进 QA Agent，用自然语言编写和运行 Web、移动端测试，并通过持久化记忆、自愈和证据化结果支持回归测试。
+    summary_en: A self-improving QA agent for authoring and running natural-language web and mobile tests with persistent memory, self-healing, and evidence-backed results.
+    why_it_matters_zh: 它把测试编写、结果分诊和调试修复拆成三个可复用 Agent skills，并通过 CLI、Dashboard 和 33 个 MCP 工具接入开发工作流；当前 FSL-1.1-ALv2 版本是 source-available 而非 OSI 开源，完整运行需要 Node 24 和已配置的模型提供商。
+    why_it_matters_en: It packages test authoring, result triage, and debug/fix work as three reusable agent skills and exposes the workflow through a CLI, dashboard, and 33 MCP tools; the current FSL-1.1-ALv2 release is source-available rather than OSI-open-source, and full runs require Node 24 plus a configured model provider.
+    status: active
