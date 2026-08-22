@@ -779,3 +779,20 @@ projects:
     why_it_matters_zh: 它用结构化状态在 Agent 之间交接，减少完整上下文重放，并结合 build123d、LangGraph、Aider、确定性几何翻译器和白盒 QA/修复循环，适合研究工程设计类 Agent 如何降低推理成本并提升可审计性。
     why_it_matters_en: It passes structured state between agents instead of replaying full context, combining build123d, LangGraph, Aider, deterministic geometric translation, and white-box QA/repair loops for studying lower-cost, auditable engineering-design agents.
     status: active
+
+  - name: Pocket Drives
+    repo: RevList/pocket-drives-mcp
+    url: https://github.com/RevList/pocket-drives-mcp
+    category: mcp
+    tags:
+      - MCP
+      - travel
+      - car-rental
+      - remote
+    languages:
+      - TypeScript
+    summary_zh: 公开只读远程 MCP，用于搜索独立车主的点对点豪华、超跑和电动车租赁。预订在 iOS 应用完成，无需登录。
+    summary_en: Public read-only remote MCP for searching peer-to-peer luxury, exotic, and EV rentals from independent hosts. Booking finishes in the iOS app. No auth.
+    why_it_matters_zh: 把真实可用的租车库存接入 Agent 工具层，适合研究远程 MCP、只读工具目录和出行类 Agent 产品。
+    why_it_matters_en: It exposes a live rental marketplace through a public read-only remote MCP, useful for studying remote MCP, tool catalogs, and travel-agent workflows.
+    status: active
