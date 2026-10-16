@@ -1,4 +1,20 @@
 projects:
+  - name: Hyperconsciousness
+    repo: louis030195/hyperconsciousness
+    url: https://github.com/louis030195/hyperconsciousness
+    category: mcp
+    tags:
+      - memory
+      - encrypted storage
+      - scoped access
+    languages:
+      - Rust
+    summary_zh: MIT 许可的开发者 alpha 阶段知识存储引擎，采用加密、仅追加的记录，通过 Rust CLI 和 MCP/HTTP 服务提供访问。
+    summary_en: An MIT-licensed developer-alpha knowledge engine with encrypted, append-only records, a Rust CLI, and MCP/HTTP access.
+    why_it_matters_zh: 展示如何通过限定范围、可过期的授权让 Agent 读取选定的长期知识。需要自行安装和配置访问权限；返回给托管模型的明文可被其服务商看到。未经过独立安全审计。
+    why_it_matters_en: Demonstrates scoped, expiring grants for agent access to selected persistent knowledge. Requires installation and access configuration; hosted model providers can see returned plaintext. No independent security audit.
+    status: active
+
   - name: Model Context Protocol Servers
     repo: modelcontextprotocol/servers
     url: https://github.com/modelcontextprotocol/servers
