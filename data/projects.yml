@@ -779,3 +779,24 @@ projects:
     why_it_matters_zh: 它用结构化状态在 Agent 之间交接，减少完整上下文重放，并结合 build123d、LangGraph、Aider、确定性几何翻译器和白盒 QA/修复循环，适合研究工程设计类 Agent 如何降低推理成本并提升可审计性。
     why_it_matters_en: It passes structured state between agents instead of replaying full context, combining build123d, LangGraph, Aider, deterministic geometric translation, and white-box QA/repair loops for studying lower-cost, auditable engineering-design agents.
     status: active
+
+  - name: REA
+    repo: morluto/rea
+    url: https://github.com/morluto/rea
+    category: developer-tools
+    tags:
+      - reverse-engineering
+      - MCP
+      - binary-analysis
+      - Electron
+      - browser-analysis
+      - agents
+    languages:
+      - TypeScript
+      - Java
+      - Python
+    summary_zh: 面向 AI Agent 的本地逆向分析工具与 MCP 服务，覆盖原生二进制、Electron/JavaScript、.NET、Android、网站、固件、抓包和运行时行为分析，并返回可追溯的证据与限制。
+    summary_en: A local reverse-engineering toolkit and MCP server for AI agents that analyzes native binaries, Electron/JavaScript, .NET, Android, websites, firmware, captures, and runtime behavior while returning traceable evidence and limitations.
+    why_it_matters_zh: 它把二进制分析、应用行为观察和功能重建接入 Codex 等 Agent 工作流，同时保留证据来源和未知项；静态 JavaScript 分析可直接使用，深度原生分析则需要用户自备 Hopper、Ghidra 或 IDA。
+    why_it_matters_en: It brings binary inspection, runtime observation, and feature reconstruction into Codex-style agent workflows while preserving evidence provenance and unknowns; static JavaScript analysis works directly, while deep native analysis requires a user-supplied Hopper, Ghidra, or IDA setup.
+    status: active
