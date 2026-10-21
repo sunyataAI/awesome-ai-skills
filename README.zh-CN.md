@@ -48,6 +48,7 @@ SunyataAI 正在建设面向下一代人机协作的开放式 AI 社区。我们
 | 项目 | 分类 | 标签 | 价值 |
 | --- | --- | --- | --- |
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | `mcp` | MCP, integrations, tools | MCP 官方服务器实现和常见工具集成参考。 |
+| [runapi-ai/mcp](https://github.com/runapi-ai/mcp) | `mcp` | MCP, model APIs, multimodal | 让 Agent 通过 RunAPI 执行图片、视频、音乐/音频和其他模型 API 工作流。 |
 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | `developer-tools` | examples, recipes, SDK | OpenAI API 和 AI 工作流的实践示例。 |
 | [microsoft/autogen](https://github.com/microsoft/autogen) | `agents` | multi-agent, orchestration | 多 Agent 应用开发方向的代表性框架。 |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | `agents` | agents, workflow | 面向角色分工和流程编排的热门 Agent 项目。 |

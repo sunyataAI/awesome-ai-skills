@@ -48,6 +48,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | Project | Category | Tags | Why It Matters |
 | --- | --- | --- | --- |
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | `mcp` | MCP, integrations, tools | Reference MCP server implementations and common integrations. |
+| [runapi-ai/mcp](https://github.com/runapi-ai/mcp) | `mcp` | MCP, model APIs, multimodal | Lets agents run image, video, music/audio, and other model API workflows through RunAPI. |
 | [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | `developer-tools` | examples, recipes, SDK | Practical examples for building with OpenAI APIs and AI workflows. |
 | [microsoft/autogen](https://github.com/microsoft/autogen) | `agents` | multi-agent, orchestration | A widely referenced framework for building multi-agent applications. |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | `agents` | agents, workflow | A popular project for role-based agent workflow orchestration. |
