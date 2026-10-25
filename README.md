@@ -90,6 +90,7 @@ SunyataAI is building an open AI community for the next generation of human-agen
 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | `skills` | Remotion, AI video, product video, shot recipes, Codex | An AI video skill for Claude Code and Codex that turns product pages into cinematic promo videos with shot recipe cards, real page captures, 2.5D camera moves, beat-synced cuts, and sound design. |
 | [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | `agents` | multi-agent, CAD, text-to-CAD, build123d, LangGraph | A decoupled multi-agent text-to-CAD framework that turns natural-language requirements into printable STEP/STL models through structured planning, code generation, QA, and repair loops. |
 | [morluto/rea](https://github.com/morluto/rea) | `developer-tools` | reverse engineering, MCP, binary analysis, Electron, agents | A local reverse-engineering toolkit and MCP server that lets agents inspect binaries, applications, websites, captures, and runtime behavior with traceable evidence and explicit limitations. |
+| [vostride/agent-qa](https://github.com/vostride/agent-qa) | `developer-tools` | QA, memory, MCP, agent skills | Self-improving natural-language web/mobile QA with memidex memory, four reusable skills, CLI, dashboard and MCP. FSL-1.1-ALv2. |
 
 ## Entry Format
 
