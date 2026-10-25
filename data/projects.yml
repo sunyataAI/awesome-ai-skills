@@ -780,7 +780,28 @@ projects:
     why_it_matters_en: It passes structured state between agents instead of replaying full context, combining build123d, LangGraph, Aider, deterministic geometric translation, and white-box QA/repair loops for studying lower-cost, auditable engineering-design agents.
     status: active
 
-  - name: Agent QA
+  - name: REA
+    repo: morluto/rea
+    url: https://github.com/morluto/rea
+    category: developer-tools
+    tags:
+      - reverse-engineering
+      - MCP
+      - binary-analysis
+      - Electron
+      - browser-analysis
+      - agents
+    languages:
+      - TypeScript
+      - Java
+      - Python
+    summary_zh: 面向 AI Agent 的本地逆向分析工具与 MCP 服务，覆盖原生二进制、Electron/JavaScript、.NET、Android、网站、固件、抓包和运行时行为分析，并返回可追溯的证据与限制。
+    summary_en: A local reverse-engineering toolkit and MCP server for AI agents that analyzes native binaries, Electron/JavaScript, .NET, Android, websites, firmware, captures, and runtime behavior while returning traceable evidence and limitations.
+    why_it_matters_zh: 它把二进制分析、应用行为观察和功能重建接入 Codex 等 Agent 工作流，同时保留证据来源和未知项；静态 JavaScript 分析可直接使用，深度原生分析则需要用户自备 Hopper、Ghidra 或 IDA。
+    why_it_matters_en: It brings binary inspection, runtime observation, and feature reconstruction into Codex-style agent workflows while preserving evidence provenance and unknowns; static JavaScript analysis works directly, while deep native analysis requires a user-supplied Hopper, Ghidra, or IDA setup.
+    status: active
+
+  - name: agent-qa
     repo: vostride/agent-qa
     url: https://github.com/vostride/agent-qa
     category: developer-tools
@@ -789,11 +810,11 @@ projects:
       - browser-automation
       - MCP
       - agent-skills
-      - self-healing
+      - memory
     languages:
       - TypeScript
-    summary_zh: 面向软件团队的自改进 QA Agent，用自然语言编写和运行 Web、移动端测试，并通过持久化记忆、自愈和证据化结果支持回归测试。
-    summary_en: A self-improving QA agent for authoring and running natural-language web and mobile tests with persistent memory, self-healing, and evidence-backed results.
-    why_it_matters_zh: 它把测试编写、结果分诊和调试修复拆成三个可复用 Agent skills，并通过 CLI、Dashboard 和 33 个 MCP 工具接入开发工作流；当前 FSL-1.1-ALv2 版本是 source-available 而非 OSI 开源，完整运行需要 Node 24 和已配置的模型提供商。
-    why_it_matters_en: It packages test authoring, result triage, and debug/fix work as three reusable agent skills and exposes the workflow through a CLI, dashboard, and 33 MCP tools; the current FSL-1.1-ALv2 release is source-available rather than OSI-open-source, and full runs require Node 24 plus a configured model provider.
+    summary_zh: 具备 memidex 记忆引擎与自我改进能力的 QA Agent，通过自然语言测试网页、Android 和 iOS 并保留运行证据。
+    summary_en: A self-improving QA agent for natural-language web, Android and iOS tests with memidex memory and retained run evidence.
+    why_it_matters_zh: 四个可复用技能覆盖测试编写、调试修复、结果分诊及运行证据与知识查询；CLI、dashboard 和 MCP 可接入开发工作流。memidex 将事实与流程保存为可评审的仓库文件，自我改进验证经验并淘汰过时知识。采用 FSL-1.1-ALv2，需要 Node.js 24+，已配置的模型与设备服务可能另行收费。
+    why_it_matters_en: Four reusable skills cover test authoring, debugging/fixes, result triage, and run/evidence/knowledge inspection through CLI, dashboard and MCP workflows. memidex keeps reviewable facts and procedures in repository files; self-improvement validates lessons and retires stale knowledge. FSL-1.1-ALv2; requires Node.js 24+, with configured-provider costs separate.
     status: active
