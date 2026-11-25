@@ -800,3 +800,20 @@ projects:
     why_it_matters_zh: 它把二进制分析、应用行为观察和功能重建接入 Codex 等 Agent 工作流，同时保留证据来源和未知项；静态 JavaScript 分析可直接使用，深度原生分析则需要用户自备 Hopper、Ghidra 或 IDA。
     why_it_matters_en: It brings binary inspection, runtime observation, and feature reconstruction into Codex-style agent workflows while preserving evidence provenance and unknowns; static JavaScript analysis works directly, while deep native analysis requires a user-supplied Hopper, Ghidra, or IDA setup.
     status: active
+  - name: Kite Agent Plugins
+    repo: kitedotnew/kite-agent-plugins
+    url: https://github.com/kitedotnew/kite-agent-plugins
+    category: mcp
+    tags:
+      - MCP
+      - design
+      - Claude Code
+      - Codex
+      - Cursor
+    languages:
+      - Markdown
+    summary_zh: Kite 设计工具的智能体插件，为 Claude Code、Codex 和 Cursor 接入 Kite 托管 MCP 服务器（https://kite.new/api/mcp，OAuth 登录）和设计技能，让智能体在团队共享的设计文件中绘制真实可编辑的图层。
+    summary_en: Agent plugins for the Kite design tool that add Kite's hosted MCP server (https://kite.new/api/mcp, OAuth sign-in) and a design skill to Claude Code, Codex, and Cursor, so agents draw real, editable layers in a design file the team shares.
+    why_it_matters_zh: 展示了一种远程 MCP + 轻量技能的插件模式：技能只说明何时使用，具体工作方式由服务器在每次连接时下发，插件无需随产品更新。注：Kite 是商业产品，免费版每天 100 次智能体操作。
+    why_it_matters_en: Shows a remote-MCP-plus-thin-skill plugin pattern where the skill only says when to use the tool and the server delivers current working instructions on each connection, so the plugin doesn't need updates. Note that Kite is a commercial product; the free plan allows 100 agent actions a day.
+    status: active
